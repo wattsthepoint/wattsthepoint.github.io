@@ -5,15 +5,16 @@ categories: [Renewable energy, Tidal energy]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
-As Great Britain accelerates its transition away from fossil fuels, policymakers and engineers are increasingly asking how to deliver large-scale, reliable, low-carbon electricity in a system dominated by weather-dependent generation such as wind and solar. The Severn Estuary barrage tidal scheme remains one of the most ambitious proposals despite first being proposed in [1925 by Lord Brabazon](https://www.sciencedirect.com/science/article/pii/S0025326X09005116). Back then, it was not followed up due to the outbreak of World War II, but was researched significantly during the 1970s and 80s, primarily due to the oil crisis.
+As Great Britain accelerates its transition away from fossil fuels, policymakers and engineers are increasingly asking how to deliver large-scale, reliable, low-carbon electricity in a system dominated by weather-dependent generation such as wind and solar. The Severn Estuary barrage tidal scheme remains one of the most ambitious proposals despite first being proposed as far back as [1925 (by Lord Brabazon)](https://www.sciencedirect.com/science/article/pii/S0025326X09005116). Back then, it was not followed up due to the outbreak of World War II, but was researched significantly during the 1970s and 80s, primarily due to the oil crisis.
 
 The harnessable tidal energy is dictated by the tidal range; the Severn Estuary has the second-highest in the world, making it a unique site. By placing turbines in a large dam-like structure across the estuary, water flowing in and out with the tides could be harnessed to drive turbines and generate electricity without burning fuel, producing no greenhouse gas emissions during operation.
 
 ## Output potential
 
-The most significant investigations into the barrage determined it could deliver [5% of the UK’s current electricity demand or up to 8.64 GW](https://webarchive.nationalarchives.gov.uk/ukgwa/20071104182842/http://www.berr.gov.uk/files/file31329.pdf) from a fully predictable, zero-carbon source. Unlike wind and solar, tidal power is extraordinarily reliable: tidal heights and timings can be predicted decades in advance, giving a unique consistency to combat the intermittency of most renewable energy resources.
+The most significant investigations into the barrage determined it could deliver [5% of the UK’s current electricity demand or up to 8.64 GW](https://webarchive.nationalarchives.gov.uk/ukgwa/20071104182842/http://www.berr.gov.uk/files/file31329.pdf) from a fully predictable, zero-carbon source. This was amongst other major reports though, as summarised in Figure 1. Unlike wind and solar, tidal power is extraordinarily reliable: tidal heights and timings can be predicted decades in advance, giving a unique consistency to combat the intermittency of most renewable energy resources.
 
-This volume of clean energy is not trivial. To put it in perspective, larger nuclear plants produce similar amounts of electricity, while onshore renewables require very large swathes of land. A Severn Barrage could deliver continuous renewable power for over a century, with a projected lifespan of well over 120 years — making it a long-term asset in a decarbonised grid.
+![Severn estuary map](/assets/images/severnmap.svg)
+_Figure 1. [Severn Estuary barrage proposals](https://commons.wikimedia.org/wiki/Category:Severn_Barrage#/media/File:Severn_Barrages_map.svg)._
 
 ## Supporting the Grid’s Transition
 
