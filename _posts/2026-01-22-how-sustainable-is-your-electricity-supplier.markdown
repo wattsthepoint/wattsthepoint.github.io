@@ -45,10 +45,5 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 
 Many suppliers are leading the way in terms of generation mix, surpassing the GB average in Figure 1. The first six depend on entirely on renewable energy. The first seven solely use zero-emission resources. Scottish Power (SP) are the only supplier to offer a "green" and "non-green" option. It is clear from Figure 2, though, that some suppliers have a long way to go, being significantly above the GB average of CO<sub>2</sub> emissions at 205 g/kWh. 
 
-<p align="center">
-  <img src="/assets/images/emitters.svg" alt="Emitters5">
-</p>
-
-<p align="center">
-Figure 2. Electricity supplier's emissions (where non-zero) between April 1, 2024 to March 31, 2025..
-</p>
+![Dirty suppliers](/assets/images/emitters.svg)
+_Figure 2. Electricity supplier's emissions (where non-zero) between April 1, 2024 to March 31, 2025._
