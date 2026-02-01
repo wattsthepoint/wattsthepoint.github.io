@@ -1,8 +1,9 @@
 ---
 title: Hydrogen as a green fuel
-date: 2026-01-25 10:00:24 +0000
+date: 2026-01-25 12:00:24 +0000
+categories: [Sustainbility, Energy]
+tags: [energy]     # TAG names should always be lowercase
 ---
-
 Hydrogen is a highly combustible element which produces no harmful emissions when used as a fuel. It is the most abundant element in the universe; however, due to its extreme reactivity, it is often found in compounds and not immediately ready for use. Hydrogen is termed green when it is produced from renewable energy resources by electrolysis, electricity is used in an electrolyser to separate hydrogen and oxygen in water. In contrast, hydrogen produced by steam methane reforming may be considered grey if the waste carbon monoxide is released into the atmosphere or blue if it is captured and stored. 
 
 # Hydrogen opportunities and challenges
