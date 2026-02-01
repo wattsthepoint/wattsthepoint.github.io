@@ -1,7 +1,7 @@
 ---
 title:  "HVDC transmission, and why it is the key enabler of a just transition in Great Britain"
 date:   2026-02-01 02:00:24 +0000
-categories: [Power networks, Renewable energy]
+categories: [Power networks, Transmission]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
