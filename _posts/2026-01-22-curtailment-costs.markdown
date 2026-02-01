@@ -1,5 +1,5 @@
 ---
-title: Curtailment costs: paying for electricity you do not use
+title: "Curtailment costs: paying for electricity you do not use"
 date: 2026-01-26 12:00:24 +0000
 categories: [Sustainbility, Energy]
 tags: [energy]     # TAG names should always be lowercase
