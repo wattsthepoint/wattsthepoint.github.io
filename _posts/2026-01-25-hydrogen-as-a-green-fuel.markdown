@@ -90,13 +90,8 @@ CO₂ emissions:
 
 This method can be used to extrapolate the curve in Figure 1.
 
-<p align="center">
-  <img src="/assets/images/h2blend2.png" alt="Hydrogen blend">
-</p>
-
-<p align="center">
-Figure 1. Effect of hydrogen fraction in a hydrogen and methane gas blend on CO<sub>2</sub> emissions.
-</p>
+![H2 blend](/assets/images/h2blend2.png)
+_Figure 1. Effect of hydrogen fraction in a hydrogen and methane gas blend on CO<sub>2</sub> emissions._
 
 ### Hydrogen safety
 
