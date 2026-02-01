@@ -1,7 +1,7 @@
 ---
 title: "Curtailment costs: paying for electricity you do not use"
 date: 2026-01-26 12:00:24 +0000
-categories: [Power networks, Power generation]
+categories: [Power networks, Transmission]
 tags: [energy]     # TAG names should always be lowercase
 ---
 Great Britain (GB) is expected to heavily decarbonise its electricity supply by 2030, as set out by the National Energy System Operator (NESO) in the [Clean Power 2030](https://www.neso.energy/publications/clean-power-2030) report. It is anticipated that this decarbonisation will be driven by renewable inverter-based resources such as wind and solar power, displacing conventional thermal power stations. One challenge associated with a low-carbon generation mix is the intermittency of supply and lack of monodirectional, predictable power flows at the transmission system level. The present transmission system was built to accommodate large fossil fuel-driven generation at specific locations; this topology does not align with a shift to predominantly offshore wind, and other generators remote from existing equipment. 
