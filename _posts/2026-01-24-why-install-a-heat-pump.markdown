@@ -6,13 +6,8 @@ tags: [energy]     # TAG names should always be lowercase
 ---
 The concept of utilising heat pumps for heating has been around for hundreds of years, and yet, despite this, domestic heating has been dominated by fossil fuels. Figure 1 illustrates the makeup of England’s central heating in terms of resources in 2025 based on [ONS data](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/mainfueltypeormethodofheatingusedincentralheatingenglandandwales). Mains gas was the most favourable resource, accounting for 78.6% of properties. In 2021, domestic heating in the UK accounted for 18% of all UK greenhouse gas emissions. With the drive towards net-zero greenhouse gas emissions in 2050, a drastic reduction in the utilisation of fossil fuels for domestic heating will be required. Although there is the possibility of utilisation of hydrogen gas as a fuel for heating, this comes with a unique set of challenges, and widespread adoption in the UK at present looks unlikely. This leaves the options of directly using renewable resources for heat or electrically generated heat. 
 
-<p align="center">
-  <img src="/assets/images/englandheating.svg" alt="Heating resources 2025">
-</p>
-
-<p align="center">
-Figure 1. Englands's central heating resource mix 2025.
-</p>
+![2025 heating resources](/assets/images/englandheating.svg)
+_Figure 1. Englands's central heating resource mix 2025._
 
 ## Heat pump operation and efficiency
 
