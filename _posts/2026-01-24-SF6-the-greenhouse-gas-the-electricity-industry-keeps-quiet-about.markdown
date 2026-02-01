@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "SF₆: the greenhouse gas the electricity industry keeps quiet about"
-date:   2026-01-24 10:00:24 +0000
+title: SF₆: the greenhouse gas the electricity industry keeps quiet about
+date: 2026-01-24 12:00:24 +0000
+categories: [Sustainbility, Energy]
+tags: [energy]     # TAG names should always be lowercase
 ---
 
 SF<sub>6</sub> is widely used in high voltage applications, either as an arc interrupting medium or an insulating gas. SF<sub>6</sub> is extremely effective for this purpose, additionally being odourless, colourless, non-toxic and stable at extreme temperatures. Where SF<sub>6</sub> is used as an arc interrupting medium, the gas is contained within a device, with the gas passing between circuit breaker contacts when they are opened. When used as an insulating medium, busbars are suspended within gas-filled cylindrical sections, which allow conductors to be housed much closer together. 
