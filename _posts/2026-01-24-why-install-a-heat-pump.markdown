@@ -1,5 +1,5 @@
 ---
-title: Why are heat pumps expensive despite being efficient?
+title: "Why are heat pumps expensive despite being efficient?"
 date: 2026-01-24 12:00:24 +0000
 categories: [Sustainbility, Energy]
 tags: [energy]     # TAG names should always be lowercase
