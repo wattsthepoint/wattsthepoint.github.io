@@ -2,7 +2,7 @@
 title:  "The most significant renewable energy project that wasn't built: the Severn Estuary barrage"
 date:   2026-02-01 02:00:24 +0000
 categories: [Renewable energy, Tidal energy]
-tags: [energy]     # TAG names should always be lowercase
+tags: [tidal energy]     # TAG names should always be lowercase
 ---
 
 As Great Britain accelerates its transition away from fossil fuels, policymakers and engineers are increasingly asking how to deliver large-scale, reliable, low-carbon electricity in a system dominated by weather-dependent generation such as wind and solar. The Severn Estuary barrage tidal scheme remains one of the most ambitious proposals despite first being proposed as far back as [1925 (by Lord Brabazon)](https://www.sciencedirect.com/science/article/pii/S0025326X09005116). Back then, it was not followed up due to the outbreak of World War II, but was researched significantly during the 1970s and 80s, primarily due to the oil crisis. In total, [almost 30 variations](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report) of a tidal scheme on the Severn Estuary have been proposed to date.
