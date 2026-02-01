@@ -1,5 +1,5 @@
 ---
-title: SF₆: the greenhouse gas the electricity industry keeps quiet about
+title: "SF₆: the greenhouse gas the electricity industry keeps quiet about"
 date: 2026-01-24 12:00:24 +0000
 categories: [Sustainbility, Energy]
 tags: [energy]     # TAG names should always be lowercase
