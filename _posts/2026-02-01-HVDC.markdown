@@ -22,7 +22,7 @@ Many options have been developed for HVDC transmission, limited by the ratings o
 The link itself can be composed of different cables and converter topologies as displayed in Figure 1. Monopole refers to a single converter at each end of the link; bipole refers to two at each end, operating at positive and negative voltages. Like all DC circuits, a positive and a negative are required; for a monopole system, a positive cable can be used in tandem with a negative cable for symmetrical monopole or ground return electrodes or cables for asymmetrical monopole. Ground return is not permitted for GB systems due to environmental concerns. Likewise, for a bipole system, a positive and negative cable are always required, and a dedicated metallic return cable connected to the neutral bus at each end (or ground return electrodes in other countries) can be used. Where no metallic return is used, the system is termed a rigid bipole; this topology is frequently selected. 
 
 <p align="center">
-  <img src="/assets/images/topologies.svg" alt="Global emissions trend">
+  <img src="/assets/images/topologies3.svg" alt="Global emissions trend">
 </p>
 
 <p align="center">
