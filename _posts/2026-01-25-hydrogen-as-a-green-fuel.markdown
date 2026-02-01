@@ -6,21 +6,21 @@ tags: [energy]     # TAG names should always be lowercase
 ---
 Hydrogen is a highly combustible element which produces no harmful emissions when used as a fuel. It is the most abundant element in the universe; however, due to its extreme reactivity, it is often found in compounds and not immediately ready for use. Hydrogen is termed green when it is produced from renewable energy resources by electrolysis, electricity is used in an electrolyser to separate hydrogen and oxygen in water. In contrast, hydrogen produced by steam methane reforming may be considered grey if the waste carbon monoxide is released into the atmosphere or blue if it is captured and stored. 
 
-# Hydrogen opportunities and challenges
+## Hydrogen opportunities and challenges
 
 Green hydrogen could offer a low-carbon solution to the heating sector's current emissions in the UK. Hydrogen gas would be something consumers are more familiar with than heat pumps if used in boilers, given that [ONS data](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/mainfueltypeormethodofheatingusedincentralheatingenglandandwales) states 78.6% of households currently use mains gas for heating. A gradual transition could be carried out using hydrogen too, since it can be blended with methane. Maintaining the need for a gas distribution network for domestic consumers by switching from natural gas to hydrogen, rather than solely utilising heat pumps, would also secure existing jobs. 
 
-## Production and use
+### Production and use
 
 Hydrogen is flexible once it has been produced since not only can it be combusted in a similar manner to natural gas for heat, it can also be used in fuel cells to generate electricity. A fuel cell reverses the reaction carried out for electrolysis, combining hydrogen and oxygen to produce water. Hydrogen could serve the energy needs of almost every industry, transport, heating and aviation being examples. 
 
-## Natural gas and hydrogen blends
+### Natural gas and hydrogen blends
 
 Where hydrogen is blended with methane (the main component in natural gas), the extent of hydrogen blend in a combustion environment is limited, dependent on the technology used; while a boiler designed for 100% hydrogen combustion would work without issues, boilers designed to work with hydrogen blends typically have limitations for hydrogen content. These limitations are a result of the vastly different heating values associated with each compound, dictating specific design parameters for each type of boiler. Hydrogen also has a much lower energy per unit volume, so more gas needs to be transported and combusted to generate the same amount of heat as methane: this can become a challenge, whereby more energy is required to compress, store, and move the hydrogen.
 
 Figure 1 displays that the relationship between carbon dioxide emissions and the fraction of hydrogen in a gas blend is non-linear, meaning that the reduction in emissions is not the same percentage as the increase in hydrogen in the blend. This is a direct result of the different combustion characterstics of the two gases and can be explained by the following section in detail (should the reader be interested), with an example of a 50% hydrogen, 50% methane blend calculated.
 
-### The chemistry behind hydrogen blends
+#### The chemistry behind hydrogen blends
 
 Two reactions occur when a hydrogen/methane blend is combusted, this is described for each element by:
 
@@ -98,10 +98,10 @@ This method can be used to extrapolate the curve in Figure 1.
 Figure 1. Effect of hydrogen fraction in a hydrogen and methane gas blend on CO<sub>2</sub> emissions.
 </p>
 
-## Hydrogen safety
+### Hydrogen safety
 
 Hydrogen is a very small element, meaning that it is more prone to leaks when compared with other hydrocarbon-based gases. Expensive leak-sensing equipment and modifications, due in part to leaks but also hydrogen embrittlement, to existing gas equipment are required where hydrogen is to replace natural gas. At present, [gas network operators](https://www.sgn.co.uk/news/our-iron-mains-replacement-programme-cutting-carbon-and-getting-uk-ready-net-zero) in the UK are preemptively replacing iron mains gas pipes with hydrogen-safe polyethylene pipes, to remove the barrier of hydrogen embrittlement. The [explosion risk](https://www.sciencedirect.com/science/article/abs/pii/S0360319923043021f) for hydrogen is much more significant than natural gas, too, due to the prevalence of leaks and the higher flammability range from 4-75% compared to methane at around 5-15% by volume in air.
 
-# Summary
+## Summary
 
 Hydrogen exists as an option to solve the UK's energy requirements in presently polluting sectors. Thus far, hydrogen rollouts for domestic heating and transportation have been extremely limited when compared to electrification, with infrastructure such as [refuelling stations](https://www.ukh2mobility.co.uk/stations/) being sparse and a domestic supply of hydrogen not existing. In addition to this, hydrogen produced by electrolysis and steam methane reforming with carbon capture was minimal in 2022, with 96% coming from [grey hydrogen](https://nepc.raeng.org.uk/media/tkphxfwy/the-role-of-hydrogen-in-the-net-zero-energy-system.pdf). This suggests that at present, if demand for hydrogen increased, there would not be adequate green fuel sources to meet the demand.
