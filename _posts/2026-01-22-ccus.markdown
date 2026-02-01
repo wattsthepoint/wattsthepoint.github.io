@@ -1,5 +1,5 @@
 ---
-title: Carbon dioxide production, capture, utilisation and storage
+title: "Carbon dioxide production, capture, utilisation and storage"
 date: 2026-01-31 12:00:24 +0000
 categories: [Carbon capture, Power generation]
 tags: [energy]     # TAG names should always be lowercas
