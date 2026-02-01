@@ -13,7 +13,7 @@ The harnessable tidal energy is dictated by the tidal range; the Severn Estuary 
 
 The most significant investigations into the barrage determined it could deliver [5% of the UK’s current electricity demand or up to 8.64 GW](https://webarchive.nationalarchives.gov.uk/ukgwa/20071104182842/http://www.berr.gov.uk/files/file31329.pdf) from a fully predictable, zero-carbon source. This was amongst other major reports though, as summarised in Figure 1. Unlike wind and solar, tidal power is extraordinarily reliable: tidal heights and timings can be predicted decades in advance, giving a unique consistency to combat the intermittency of most renewable energy resources.
 
-![Severn estuary map](/assets/images/severnmap.svg)
+![Severn estuary map](/assets/images/Severn_Barrages_map.svg)
 _Figure 1. [Severn Estuary barrage proposals](https://commons.wikimedia.org/wiki/Category:Severn_Barrage#/media/File:Severn_Barrages_map.svg)._
 
 ## Supporting the Grid’s Transition
