@@ -34,7 +34,7 @@ However, the barrage is not without controversy. [Environmental groups](https://
 
 These ecological costs partly explain why alternative approaches, such as tidal lagoons or tidal stream technologies, have gained comparatively more political traction in recent years; the Severn Estuary Commission, in a [2025 report](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report), recommended smaller lagoon projects to avoid crossing the entire estuary and have lower environmental impacts.
 
-There are also practical questions about cost and financing. Cost estimates vary but could be in the region of [£33.4 bn for the full barrage or £6.8 bn for the smaller 1.05 GW Shoots Barrage]([https://webarchive.nationalarchives.gov.uk/ukgwa/20090420102254/http%3A//severntidalpowerconsultation.decc.gov.uk/supporting_documents](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report)). While some advocates argue that the project could yield electricity at competitive prices once capital costs are recovered, securing funding and navigating regulatory hurdles would be challenging.
+There are also practical questions about cost and financing. Cost estimates vary but could be in the region of [£33.4 bn for the full barrage or £6.8 bn for the smaller 1.05 GW Shoots Barrage](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report). While some advocates argue that the project could yield electricity at competitive prices once capital costs are recovered, securing funding and navigating regulatory hurdles would be challenging.
 
 ## The future of power on the Severn Estuary
 
