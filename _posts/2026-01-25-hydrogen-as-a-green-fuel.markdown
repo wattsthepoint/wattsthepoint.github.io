@@ -1,5 +1,5 @@
 ---
-title: Hydrogen as a green fuel
+title: "Hydrogen as a green fuel"
 date: 2026-01-25 12:00:24 +0000
 categories: [Sustainbility, Energy]
 tags: [energy]     # TAG names should always be lowercase
