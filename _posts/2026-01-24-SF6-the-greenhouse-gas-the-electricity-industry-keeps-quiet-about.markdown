@@ -1,11 +1,11 @@
 ---
 title: "SF₆: the greenhouse gas the electricity industry keeps quiet about"
 date: 2026-01-24 12:00:24 +0000
-categories: [Power networks, Greenhouse gases]
+categories: [Greenhouse gases, Sulfur hexafluoride]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
-SF<sub>6</sub> is widely used in high voltage applications, either as an arc interrupting medium or an insulating gas. SF<sub>6</sub> is extremely effective for this purpose, additionally being odourless, colourless, non-toxic and stable at extreme temperatures. Where SF<sub>6</sub> is used as an arc interrupting medium, the gas is contained within a device, with the gas passing between circuit breaker contacts when they are opened. When used as an insulating medium, busbars are suspended within gas-filled cylindrical sections, which allow conductors to be housed much closer together. 
+Sulfur hexafluoride (SF<sub>6</sub>) is widely used in high voltage applications, either as an arc interrupting medium or an insulating gas. SF<sub>6</sub> is extremely effective for this purpose, additionally being odourless, colourless, non-toxic and stable at extreme temperatures. Where SF<sub>6</sub> is used as an arc interrupting medium, the gas is contained within a device, with the gas passing between circuit breaker contacts when they are opened. When used as an insulating medium, busbars are suspended within gas-filled cylindrical sections, which allow conductors to be housed much closer together. 
 
 ## The benefits of SF<sub>6</sub>
 Before the adoption of SF<sub>6</sub>, air-insulated substations (AIS) were the prevailing installation, requiring large safety distances between pieces of equipment to prevent flashovers, subsequently making the overall substation footprint larger. The space required for gas-insulated substations (GIS), however, is typically 20% of the equivalent AIS substation. This factor is particularly significant for densely populated areas and city substations, making GIS an attractive alternative, requiring less capital for land purchasing. Although the cost of equipment is higher for GIS substations, they are shielded from the elements and generally placed indoors, reducing maintenance requirements and making them very reliable.
