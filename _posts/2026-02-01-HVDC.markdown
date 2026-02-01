@@ -1,7 +1,9 @@
+
 ---
-layout: post
 title:  "HVDC transmission, and why it is the key enabler of a just transition in Great Britain"
 date:   2026-01-31 02:00:24 +0000
+categories: [Sustainbility, Energy]
+tags: [energy]     # TAG names should always be lowercase
 ---
 
 High-voltage direct current (HVDC) electricity transmission is a method of transporting large volumes of power, which is rapidly evolving in Great Britain (GB) due to changing factors such as geography and the intermittency of renewable energy generation. The electricity system in GB has utilised high-voltage alternating current (HVAC) transmission since its inception, whereby generators, through their natural rotation, produce a sinusoidal waveform varying between maximum positive and negative values 50 times per second (50 Hz). AC is simple to step up or down, utilising transformers and is the electricity supplied to all GB homes and businesses. 
