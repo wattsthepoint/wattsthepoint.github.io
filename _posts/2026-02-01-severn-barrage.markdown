@@ -24,7 +24,7 @@ Beyond decarbonisation, the barrage has potential economic and strategic benefit
 
 * Local economy support: Large-scale construction and long-term maintenance could create thousands of jobs, particularly in South Wales and southwest England.
 
-* Flood protection: A barrage can double as a storm surge barrier, offering some protection against sea-level rise and coastal flooding — an increasingly pressing concern under climate change.
+* Flood protection: A barrage can double as a storm surge barrier, offering some protection against sea-level rise and coastal flooding which could become more pressing due to climate change.
 
 * Cross-estuary connectivity: The structure could support transport links (road and rail), potentially improving connectivity between England and Wales.
 
