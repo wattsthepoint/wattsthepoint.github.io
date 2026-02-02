@@ -8,7 +8,7 @@ Hydrogen is a highly combustible element which produces no harmful emissions whe
 
 ## Hydrogen opportunities and challenges
 
-Green hydrogen could offer a low-carbon solution to the heating sector's current emissions in the UK. Hydrogen gas would be something consumers are more familiar with than heat pumps if used in boilers, given that [ONS data](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/mainfueltypeormethodofheatingusedincentralheatingenglandandwales) states 78.6% of households currently use mains gas for heating. A gradual transition could be carried out using hydrogen too, since it can be blended with methane. Maintaining the need for a gas distribution network for domestic consumers by switching from natural gas to hydrogen, rather than solely utilising heat pumps, would also secure existing jobs. 
+Green hydrogen could offer a low-carbon solution to the heating sector's current emissions in the UK. Hydrogen gas would be something consumers are more familiar with than heat pumps if used in boilers, given that [ONS data](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/mainfueltypeormethodofheatingusedincentralheatingenglandandwales) states 78.6% of households currently use mains gas for heating. A gradual transition could be carried out using hydrogen too, since it can be blended with methane. Maintaining the need for a gas distribution network for domestic consumers by switching from natural gas to hydrogen, rather than solely utilising [heat pumps](https://wattsthepoint.github.io/posts/why-install-a-heat-pump/), would also secure existing jobs. 
 
 ### Production and use
 
