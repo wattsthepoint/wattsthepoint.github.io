@@ -21,6 +21,8 @@ Although the electricity utilised in homes and businesses is not provided by a s
 Table 1. Electricity supplier resource allocation between April 1, 2024 to March 31, 2025 ranked from low to high in terms of emissions associated with power generation.
 </p>
 
+<div align="center">
+  
 | Supplier | Coal | Natural gas | Nuclear | Renewables | Other |
 |:--------:|:----:|:-----------:|:------:|:----------:|:-----:|
 | [Scottish Power (green tariff)](https://www.scottishpower.co.uk/about-us/performance/fuel-mix) | 0 | 0 | 0 | 100 | 0 |
@@ -42,6 +44,8 @@ Table 1. Electricity supplier resource allocation between April 1, 2024 to March
 | [Utility Warehouse](https://uw.co.uk/legal/energy-information/fuel-mix-disclosure) | 15 | 75 | 4 | 0.3 | 6 |
 | [Utilita](https://utilita.co.uk/index.php/codes-of-practice) | 15 | 75 | 4 | 0 | 6 |
 | [E](https://e.org/our-fuel-mix) | 15 | 75 | 4 | 0.3 | 6 |
+
+</div>
 
 Many suppliers are leading the way in terms of generation mix, surpassing the GB average in Figure 1. The first six depend on entirely on renewable energy. The first seven solely use zero-emission resources. Scottish Power (SP) are the only supplier to offer a "green" and "non-green" option. It is clear from Figure 2, though, that some suppliers have a long way to go, being significantly above the GB average of CO<sub>2</sub> emissions at 205 g/kWh. 
 
