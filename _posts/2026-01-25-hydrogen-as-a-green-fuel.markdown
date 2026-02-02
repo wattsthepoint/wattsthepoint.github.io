@@ -32,12 +32,17 @@ CH<sub>4</sub>(g) + 2O<sub>2</sub>(g) → CO<sub>2</sub>(g) + 2H<sub>2</sub>O(g)
 Table 1. Element characteristics for the reactions.
 </p>
 
-| Element              | Molar mass (g/mol) | Δh<sub>comb</sub> (kJ/mol) |
-|:--------------------:|:-----------------:|:-------------------------:|
-| Hydrogen (H₂)        | 2.016             | 241.83                    |
-| Methane (CH₄)       | 16.04             | 802.34                    |
-| Carbon dioxide (CO₂)| 44.01             | —                         |
-| Oxygen (O₂)          | 16.00             | —                         |
+<div align="center">
+
+| Element | Molar mass (g/mol) | Δh<sub>comb</sub> (kJ/mol) |
+|:------:|:------------------:|:--------------------------:|
+| Hydrogen (H₂) | 2.016 | 241.83 |
+| Methane (CH₄) | 16.04 | 802.34 |
+| Carbon dioxide (CO₂) | 44.01 | — |
+| Oxygen (O₂) | 16.00 | — |
+
+</div>
+
 
 The molar fraction of the gas blend is:
 
