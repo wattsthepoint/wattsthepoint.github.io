@@ -20,13 +20,13 @@ _Figure 1. [Severn Estuary barrage proposals](https://commons.wikimedia.org/wiki
 
 Beyond decarbonisation, the barrage has potential economic and strategic benefits:
 
-* Energy security: Because the barrage relies only on the tides, it is independent of fuel imports and volatile global markets, lowering dependence on natural gas. Once constructed, [operating costs are low and stable, and the lifespan is long](https://webarchive.nationalarchives.gov.uk/ukgwa/20071104182842/http://www.berr.gov.uk/files/file31329.pdf), helping insulate consumers from fluctuating energy prices.
+* Energy security: because the barrage relies only on the tides, it is independent of fuel imports and volatile global markets, lowering dependence on natural gas. Once constructed, [operating costs are low and stable, and the lifespan is long](https://webarchive.nationalarchives.gov.uk/ukgwa/20071104182842/http://www.berr.gov.uk/files/file31329.pdf), helping insulate consumers from fluctuating energy prices.
 
-* Local economy support: Large-scale construction and long-term maintenance could create thousands of jobs, particularly in South Wales and southwest England.
+* Local economy support: large-scale construction and long-term maintenance could create thousands of jobs, particularly in South Wales and southwest England.
 
-* Flood protection: A barrage can double as a storm surge barrier, offering some protection against sea-level rise and coastal flooding which could become more pressing due to climate change.
+* Flood protection: a barrage can double as a storm surge barrier, offering some protection against sea-level rise and coastal flooding which could become more pressing due to climate change.
 
-* Cross-estuary connectivity: The structure could support transport links (road and rail), potentially improving connectivity between England and Wales.
+* Cross-estuary connectivity: the structure could support transport links (road and rail), potentially improving connectivity between England and Wales.
 
 ## Environmental and practical considerations
 
@@ -34,7 +34,7 @@ However, the barrage is not without controversy. [Environmental groups](https://
 
 These ecological costs partly explain why alternative approaches, such as tidal lagoons or tidal stream technologies, have gained comparatively more political traction in recent years; the Severn Estuary Commission, in a [2025 report](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report), recommended smaller lagoon projects to avoid crossing the entire estuary and have lower environmental impacts.
 
-There are also practical questions about cost and financing. Cost estimates vary but could be in the region of [£33.4 bn for the full barrage or £6.8 bn for the smaller 1.05 GW Shoots Barrage](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report). While some advocates argue that the project could yield electricity at competitive prices once capital costs are recovered, securing funding and navigating regulatory hurdles would be challenging.
+There are also practical questions about cost and financing. Cost estimates vary, but could be in the region of [£33.4 bn for the full barrage or £6.8 bn for the smaller 1.05 GW Shoots Barrage](https://tethys-engineering.pnnl.gov/publications/severn-estuary-commission-report). While some advocates argue that the project could yield electricity at competitive prices once capital costs are recovered, securing funding and navigating regulatory hurdles would be challenging.
 
 ## The future of power on the Severn Estuary
 
