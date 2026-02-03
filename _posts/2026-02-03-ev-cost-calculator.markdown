@@ -4,7 +4,7 @@ title:  "Electric vs conventional vehicle cost comparison | Running cost calcula
 date:   2026-02-03 02:00:24 +0000
 ---
 
-<iframe src="https://app.spreadshare.ca/view?id=350befb931bf40139203056487637c24" width="900" height="1200" style="border:none;"></iframe>
+<iframe src="https://app.spreadshare.ca/view?id=2d233333885d4697905e5f7be082cc0f" width="900" height="1200" style="border:none;"></iframe>
 
 ## Assumptions and simplifications
 
