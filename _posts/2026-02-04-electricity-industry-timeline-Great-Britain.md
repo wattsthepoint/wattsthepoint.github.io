@@ -1,8 +1,8 @@
 ---
-title: "A Timeline of the Great Britain Electricity Industry"
+title: "A brief timeline of Great Britain's electricity industry"
 date: 2026-02-04
-categories: [Energy, Electricity]
-tags: [gb, electricity, history, energy-policy]
+categories: [Energy, History]
+tags: [history]
 ---
 
 <style>
@@ -151,7 +151,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1976</div>
   <div class="timeline-content">
-    Hinkley Point B and Hunterston B open using advanced gas-cooled reactors.
+    Hinkley Point B and Hunterston B power stations open using advanced gas-cooled reactors.
   </div>
 </div>
 
@@ -167,7 +167,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1973</div>
   <div class="timeline-content">
-    North Wales Hydro Electric Power Act enables construction of Dinorwig.
+    North Wales Hydro Electric Power Act enables construction of Dinorwig (the Electric Mountain).
   </div>
 </div>
 
@@ -183,7 +183,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1969</div>
   <div class="timeline-content">
-    West Burton A opens, the first power station with 2 GW output.
+    West Burton A power station opens, the first power station with 2 GW output.
   </div>
 </div>
 
@@ -191,7 +191,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1966</div>
   <div class="timeline-content">
-    Ferrybridge C becomes the first to use 500 MW turbo-alternators.
+    Ferrybridge C power station becomes the first to use 500 MW turbo-alternators.
   </div>
 </div>
 
@@ -207,7 +207,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1963</div>
   <div class="timeline-content">
-    Blyth B becomes the first to use 275 MW turbo-alternators.
+    Blyth B power station becomes the first to use 275 MW turbo-alternators.
   </div>
 </div>
 
@@ -223,7 +223,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1959</div>
   <div class="timeline-content">
-    High Marnham becomes Europe’s largest power station at 1 GW.
+    High Marnham power station becomes Europe’s largest power station at 1 GW.
   </div>
 </div>
 
@@ -239,7 +239,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1956</div>
   <div class="timeline-content">
-    Castle Donnington becomes the first to use 100 MW turbo-alternators.
+    Castle Donnington power station becomes the first to use 100 MW turbo-alternators.
   </div>
 </div>
 
@@ -247,7 +247,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1955</div>
   <div class="timeline-content">
-    North Wales Hydro-Electric Power Act enables Ffestiniog and Rheidol schemes.
+    North Wales Hydro-Electric Power Act enables Ffestiniog and Rheidol hydroelectric schemes.
   </div>
 </div>
 
@@ -263,7 +263,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1952</div>
   <div class="timeline-content">
-    First HVDC link (IFA 160) commissioned between France and England.
+    The first high voltage direct current link, Interconnexion France Angleterre (IFA 160), is commissioned between France and England with a capacity of 160 MW.
   </div>
 </div>
 
@@ -287,7 +287,7 @@ tags: [gb, electricity, history, energy-policy]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1926</div>
   <div class="timeline-content">
-    Electricity (Supply) Act 1926 standardises transmission at 132 kV and 50 Hz.
+    Electricity (Supply) Act 1926 standardises electricity transmission at 132 kV and 50 Hz.
   </div>
 </div>
 
