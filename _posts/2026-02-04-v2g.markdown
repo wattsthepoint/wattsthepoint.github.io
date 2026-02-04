@@ -9,7 +9,7 @@ In recent years, the idea of turning thousands of electric cars sitting idle on 
 
 At least in theory, V2G offers a strong solution to two major challenges: managing renewable energy intermittency and reducing consumer energy costs. In practice, however, the reality is much more nuanced.
 
-## How Does V2G Work?
+## How does V2G work?
 
 Standard EVs and home chargers are monodirectional: electricity flows only one way, into the vehicle. Discharging is reserved for driving and normal use. V2G-ready vehicles and chargers are different. They are bidirectional, meaning they can both charge the battery and send electricity back to the grid when requested by energy suppliers.
 
@@ -18,19 +18,19 @@ In principle, this makes V2G highly attractive. It could help manage the intermi
 ![ev charger](/assets/images/zaptaccharger.avif)
 _Figure 1. Zaptec EV charger._
 
-## The Challenges of V2G in 2026
+## The challenges of V2G in 2026
 
 While V2G may appear to address several major problems facing the electricity system, its practical implementation remains limited. At present, the [Octopus Power Pack](https://octopus.energy/power-pack/) is the only active V2G scheme in Great Britain. It offers free EV charging (up to the equivalent of 625 miles per month) in exchange for keeping a vehicle plugged in for at least 12 hours per day on 20 days per month. Compared with the [Octopus Go tariff](https://octopus.energy/smart/intelligent-octopus-go/), this represents a potential saving of around £180 per year, assuming all charging is carried out at the 7p/kWh off-peak rate. 
 
-### Limited Compatibility
+### Limited compatibility
 
 The Power Pack scheme has an extremely limited number of compatible cars and chargers: a Nissan Leaf, Nissan e-NV200 or Mitsubishi Outlander PHEV with a Wallbox Quasar v1 charger or a BYD Dolphin with a Zaptec Pro. The Wallbox Quasar v1 charger is no longer in production, and the Zaptec Pro requires a three-phase supply, making neither of these options possible for new domestic customers wanting to get on the Power Pack scheme. Octopus states that they are working hard to expand the list of compatible vehicles and chargers.
 
-### High Equipment Costs
+### High equipment costs
 
 Since bidirectional chargers are different from standard EV chargers, they come at a significant premium, with a [potential cost of £5,500](https://electricnation.org.uk/?ref=https%3A%2F%2Fduckduckgo.com%2F) based on a trial conducted by Western Power Distribution in 2021, which is over five times the cost of a [standard EV charger](https://octopus.energy/ev-charger-faq/). These chargers also require approval from the Distribution Network Operator through the G99 process. Due to these costs, it is clear that no financial gains will be made using this scheme for many years, which is why uptake has been sluggish and dominated by funded trials.
 
-### Battery Degradation
+### Battery degradation
 
 Another important concern is battery wear. V2G requires batteries to charge and discharge more frequently than under normal driving conditions. Each charge–discharge cycle contributes to gradual degradation, reducing capacity over time. This affects both vehicle range and resale value. [One 10-year study](https://www.sciencedirect.com/science/article/pii/S0306261924019299#s0065) estimated that battery degradation could be accelerated by around 10% as a result of V2G services. 
 
