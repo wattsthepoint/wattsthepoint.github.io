@@ -1,6 +1,6 @@
 ---
 title:  "Test Post"
-date:   2026-01-04 02:00:24 +0000
+date:   2026-02-04 02:00:24 +0000
 categories: [Domestic energy, Electric vehicles]
 tags: [electric vehicles]     # TAG names should always be lowercase
 ---
