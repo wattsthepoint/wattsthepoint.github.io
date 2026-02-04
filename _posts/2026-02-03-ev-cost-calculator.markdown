@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Electric vs conventional vehicle cost comparison | Running cost calculator"
-date:   2026-02-03 02:00:24 +0000
+title: "Electric vs conventional vehicle cost comparison | Running cost calculator"
+date: 2026-02-03 12:00:24 +0000
+categories: [Domestic energy, Electric vehicles]
+tags: [electric vehicles]     # TAG names should always be lowercase
 ---
 
 <iframe src="https://app.spreadshare.ca/view?id=2d233333885d4697905e5f7be082cc0f" width="800" height="1000" style="border:none;"></iframe>
