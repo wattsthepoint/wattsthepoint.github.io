@@ -1,4 +1,6 @@
-/* ===== Vertical Timeline for Chirpy ===== */
+/* ================================
+   Vertical Timeline
+================================ */
 
 .post-content .vtimeline {
   position: relative;
@@ -7,19 +9,17 @@
   padding: 2rem 0;
 }
 
-/* Center line */
 .post-content .vtimeline::before {
   content: "";
   position: absolute;
-  left: 50%;
   top: 0;
-  bottom: 0;
+  left: 50%;
   width: 3px;
+  height: 100%;
   background: var(--main-color);
   transform: translateX(-50%);
 }
 
-/* Item */
 .post-content .vt-item {
   position: relative;
   width: 50%;
@@ -27,7 +27,6 @@
   box-sizing: border-box;
 }
 
-/* Left / Right */
 .post-content .vt-item.left {
   left: 0;
   text-align: right;
@@ -38,7 +37,6 @@
   text-align: left;
 }
 
-/* Dot */
 .post-content .vt-item::before {
   content: "";
   position: absolute;
@@ -47,7 +45,7 @@
   height: 14px;
   background: var(--main-color);
   border-radius: 50%;
-  z-index: 2;
+  z-index: 1;
 }
 
 .post-content .vt-item.left::before {
@@ -58,34 +56,9 @@
   left: -7px;
 }
 
-/* Card */
 .post-content .vt-box {
   background: var(--card-bg);
-  border-radius: 8px;
   padding: 1rem 1.2rem;
+  border-radius: 8px;
   box-shadow: var(--card-shadow);
-}
-
-.post-content .vt-box h3 {
-  margin: 0 0 0.4rem;
-  color: var(--main-color);
-}
-
-/* Mobile */
-@media (max-width: 768px) {
-
-  .post-content .vtimeline::before {
-    left: 25px;
-  }
-
-  .post-content .vt-item {
-    width: 100%;
-    left: 0 !important;
-    padding-left: 4rem;
-    text-align: left;
-  }
-
-  .post-content .vt-item::before {
-    left: 18px;
-  }
 }
