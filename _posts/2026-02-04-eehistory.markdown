@@ -6,184 +6,48 @@ tags: [electricity supply]     # TAG names should always be lowercase
 ---
 
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-* {
-  box-sizing: border-box;
+.markdown-body {
+  max-width: 100% !important;
 }
 
-body {
-  font-family: Helvetica, sans-serif;
-}
-
-/* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
-  max-width: 800px;
-  margin: 0 auto;
+  max-width: 1000px;
+  margin: auto;
 }
 
-/* The actual timeline (the vertical ruler) */
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: white;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-/* Container around content */
 .container {
+  width: 50%;
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
-  width: 50%;
 }
 
-/* The circles on the timeline */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: white;
-  border: 4px solid #FF9F55;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-/* Place the container to the left */
-.left {
-  left: 0;
-}
-
-/* Place the container to the right */
-.right {
-  left: 50%;
-}
-
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
-}
-
-/* Add arrows to the right container (pointing left) */
-.right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-}
-
-/* Fix the circle for containers on the right side */
-.right::after {
-  left: -16px;
-}
-
-/* The actual content */
-.content {
-  padding: 20px 30px;
-  background-color: white;
-  position: relative;
-  border-radius: 6px;
-}
-
-/* Media queries - Responsive timeline on screens less than 600px wide */
-@media screen and (max-width: 600px) {
-  /* Place the timelime to the left */
-  .timeline::after {
-  left: 31px;
-  }
-  
-  /* Full-width containers */
-  .container {
-  width: 100%;
-  padding-left: 70px;
-  padding-right: 25px;
-  }
-  
-  /* Make sure that all arrows are pointing leftwards */
-  .container::before {
-  left: 60px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-  }
-
-  /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-  left: 15px;
-  }
-  
-  /* Make all right containers behave like the left ones */
-  .right {
-  left: 0%;
-  }
-}
+.left { left: 0; }
+.right { left: 50%; }
 </style>
-</head>
-<body>
+
+<div style="width:100vw;margin-left:50%;transform:translateX(-50%);">
 
 <div class="timeline">
-  <div class="container left">
-    <div class="content">
-      <h2>2024</h2>
-      <p>Ratcliffe-on-Soar power station closes, marking the final use of coal power in Britain.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2018</h2>
-      <p>The Domestic Gas and Electricity Tariff Cap Act 2018 is introduced, insulating consumers from high energy costs.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2010</h2>
-      <p>The Energy Act 2010 is introduced, aiming to accelerate the transition to a low-carbon, high-efficiency economy.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2008</h2>
-      <p>The Energy Act 2008 introduces smart meters and the renewable obligation- supporting the generation of electricity from renewable resources.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2004</h2>
-      <p>The Energy Act 2004 forms the Nuclear Decommissioning Authority, legislating the decommissioning of nuclear generators.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2007</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
-    </div>
-  </div>
+
+<div class="container left">
+<div class="content">
+<h2>2024</h2>
+<p>Coal ends</p>
 </div>
+</div>
+
+<div class="container right">
+<div class="content">
+<h2>2018</h2>
+<p>Tariff cap</p>
+</div>
+</div>
+
+</div>
+</div>
+
 
 </body>
 </html>
