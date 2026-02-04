@@ -6,7 +6,6 @@ tags: [electric vehicles]     # TAG names should always be lowercase
 ---
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +15,6 @@ tags: [electric vehicles]     # TAG names should always be lowercase
 }
 
 body {
-  background-color: #474e5d;
   font-family: Helvetica, sans-serif;
 }
 
@@ -151,32 +149,32 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2024</h2>
+      <p>Ratcliffe-on-Soar power station closes, marking the final use of coal power in Britain.</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2018</h2>
+      <p>The Domestic Gas and Electricity Tariff Cap Act 2018 is introduced, insulating consumers from high energy costs.</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2015</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2010</h2>
+      <p>The Energy Act 2010 is introduced, aiming to accelerate the transition to a low-carbon, high-efficiency economy.</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2012</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2008</h2>
+      <p>The Energy Act 2008 introduces smart meters and the renewable obligation- supporting the generation of electricity from renewable resources.</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2011</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2004</h2>
+      <p>The Energy Act 2004 forms the Nuclear Decommissioning Authority, legislating the decommissioning of nuclear generators.</p>
     </div>
   </div>
   <div class="container right">
