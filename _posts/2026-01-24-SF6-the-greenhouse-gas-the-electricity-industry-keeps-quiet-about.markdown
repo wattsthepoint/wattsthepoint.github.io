@@ -16,13 +16,8 @@ _Figure 1. 132 kV GIS substation (note that the busbars are not phase segregated
 ## The catch with SF<sub>6</sub>
 SF<sub>6</sub> has a huge [global warming potential (GWP)](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07.pdf) of 23,500. GWP represents the capability of the gas to contain heat within the atmosphere relative to carbon dioxide. As such, CO<sub>2</sub> has a GWP of 1, making SF<sub>6</sub> 23,500 times more potent. The GWP can be further compared to other greenhouse gases in Figure 2. Coupled with its widespread adoption, it is one of the most significant challenges in terms of sustainability for electrical transmission and distribution companies. It is anticipated that the UK Government could take a similar approach to SF<sub>6</sub> as the European Union (regulation [EU 2024/573](https://eur-lex.europa.eu/eli/reg/2024/573/oj/eng)), with potential bans on virgin gas from 2035 and a phase-out of >145 kV equipment from 2032, where they use F-gas with a GWP >10. The EU regulation introduces a staged timeline, where harmful gases are banned for use at lower voltages sooner than higher voltages, as commercially viable alternatives are already available at these levels.
 
-<p align="center">
-  <img src="/assets/images/FINALGWP.svg" alt="GWP of GG">
-</p>
-
-<p align="center">
-Figure 2. Global warming potential of various greenhouse gases (100 year timescale).
-</p>
+![gwp](/assets/images/FINALGWP.svg)
+_Figure 2. [Global warming potential]((https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Chapter07.pdf)) of various greenhouse gases (100 year timescale)._
 
 [0.3 MtCO<sub>2</sub>e](https://www.gov.uk/government/publications/annual-statement-of-emissions-for-2023/annual-statement-of-emissions-for-2023-accessible-webpage) was emitted in the UK during 2023 due to SF<sub>6</sub> emissions, equating to 13 t of SF<sub>6</sub>. During the 2023 financial year, [National Grid Electricity Transmission](https://www.nationalgrid.com/electricity-transmission/who-we-are/our-environmental-plan-and-performance#4257225834-7561195-2) was responsible for 9759 kg of SF<sub>6</sub> emissions, [Scottish Power](https://www.spenergynetworks.co.uk/userfiles/file/SP_Transmission_Annual_Environmental_Report_2025_v5.pdf) was responsible for 693 kg and [Scottish and Southern Electricity](https://www.sse.com/sustainability) was responsible for 265 kg across its network businesses. Overall emissions were 385 MtCO<sub>2</sub>e, making the contribution from SF<sub>6</sub> 0.01%.
 
