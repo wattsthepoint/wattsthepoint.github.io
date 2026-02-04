@@ -1,33 +1,32 @@
----
-title:  "Timeline of Great Britain's electricity supply industry"
-date:   2026-02-04 02:00:24 +0000
-categories: [Power networks, History]
-tags: [electricity supply]     # TAG names should always be lowercase
----
-
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Electricity Timeline</title>
+
 <style>
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: #474e5d;
   font-family: Helvetica, sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 40px 0;
 }
 
-/* The actual timeline (the vertical ruler) */
+/* Timeline */
 .timeline {
   position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: 1000px;
+  margin: auto;
 }
 
-/* The actual timeline (the vertical ruler) */
+/* Center line */
 .timeline::after {
   content: '';
   position: absolute;
@@ -39,15 +38,14 @@ body {
   margin-left: -3px;
 }
 
-/* Container around content */
+/* Containers */
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
   width: 50%;
 }
 
-/* The circles on the timeline */
+/* Circles */
 .container::after {
   content: '';
   position: absolute;
@@ -61,204 +59,107 @@ body {
   z-index: 1;
 }
 
-/* Place the container to the left */
-.left {
-  left: 0;
-}
+/* Left / Right */
+.left { left: 0; }
+.right { left: 50%; }
 
-/* Place the container to the right */
-.right {
-  left: 50%;
-}
-
-/* Add arrows to the left container (pointing right) */
+/* Arrows */
 .left::before {
-  content: " ";
-  height: 0;
+  content: "";
   position: absolute;
   top: 22px;
-  width: 0;
-  z-index: 1;
   right: 30px;
-  border: medium solid white;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border: 10px solid transparent;
+  border-left-color: white;
 }
 
-/* Add arrows to the right container (pointing left) */
 .right::before {
-  content: " ";
-  height: 0;
+  content: "";
   position: absolute;
   top: 22px;
-  width: 0;
-  z-index: 1;
   left: 30px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border: 10px solid transparent;
+  border-right-color: white;
 }
 
-/* Fix the circle for containers on the right side */
 .right::after {
   left: -16px;
 }
 
-/* The actual content */
+/* Content */
 .content {
+  background: white;
+  color: black;
   padding: 20px 30px;
-  background-color: white;
-  position: relative;
   border-radius: 6px;
 }
 
-/* Media queries - Responsive timeline on screens less than 600px wide */
-@media screen and (max-width: 600px) {
-  /* Place the timelime to the left */
+/* Mobile */
+@media (max-width: 600px) {
+
   .timeline::after {
-  left: 31px;
-  }
-  
-  /* Full-width containers */
-  .container {
-  width: 100%;
-  padding-left: 70px;
-  padding-right: 25px;
-  }
-  
-  /* Make sure that all arrows are pointing leftwards */
-  .container::before {
-  left: 60px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+    left: 31px;
   }
 
-  /* Make sure all circles are at the same spot */
-  .left::after, .right::after {
-  left: 15px;
+  .container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
   }
-  
-  /* Make all right containers behave like the left ones */
+
+  .container::before {
+    left: 60px;
+    border: 10px solid transparent;
+    border-right-color: white;
+  }
+
+  .left::after,
+  .right::after {
+    left: 15px;
+  }
+
   .right {
-  left: 0%;
+    left: 0;
   }
 }
 </style>
 </head>
+
 <body>
 
+<h1 style="text-align:center;">Timeline of Britain’s Electricity Supply</h1>
+
 <div class="timeline">
+
   <div class="container left">
     <div class="content">
       <h2>2024</h2>
-      <p>Ratcliffe-on-Soar power station closes, marking the final use of coal power in Britain.</p>
+      <p>Ratcliffe-on-Soar power station closes, ending coal power in Britain.</p>
     </div>
   </div>
+
   <div class="container right">
     <div class="content">
       <h2>2018</h2>
-      <p>The Domestic Gas and Electricity Tariff Cap Act 2018 is introduced, insulating consumers from high energy costs.</p>
+      <p>Tariff Cap Act introduced.</p>
     </div>
   </div>
+
   <div class="container left">
     <div class="content">
       <h2>2010</h2>
-      <p>The Energy Act 2010 is introduced, aiming to accelerate the transition to a low-carbon, high-efficiency economy.</p>
+      <p>Energy Act accelerates low-carbon transition.</p>
     </div>
   </div>
+
   <div class="container right">
     <div class="content">
       <h2>2008</h2>
-      <p>The Energy Act 2008 introduces smart meters and the renewable obligation- supporting the generation of electricity from renewable resources.</p>
+      <p>Smart meters and renewables support.</p>
     </div>
   </div>
-  <div class="container left">
-    <div class="content">
-      <h2>2004</h2>
-      <p>The Energy Act 2004 forms the Nuclear Decommissioning Authority, legislating the decommissioning of nuclear generators.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>2000</h2>
-      <p>The Utilities Act 2000 establishes the Office of Gas and Electricity Markets (Ofgem)</p>
-    </div>
-  </div>
-</div>
-  <div class="container left">
-    <div class="content">
-      <h2>1990</h2>
-      <p>The Central Electricity Generating Board is privatised.</p>
-    </div>
-  </div>
-  <div class="container right">
- <div class="content">
-      <h2>1989</h2>
-      <p>The Electricity Act 1989 instructs the privatisation of the electricity industry and introduces the fossil fuel levy to support non-fossil fuel-based resources.</p>
-    </div>
-  </div>
-</div>
-  <div class="container left">
-    <div class="content">
-      <h2>1988</h2>
-      <p>Adoption of the European Union's Large Combustion Plant Directive to combat acid rain due to flue gases of power plants.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>1986</h2>
-      <p>The first high-voltage direct current link- Interconnexion France Angleterre (IFA 2000)- is commissioned between France and England with a capacity of 2 GW.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>1979</h2>
-      <p>Gas turbines used as primary power sources.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>1978</h2>
-      <p>The Nuclear Safeguards and Electricity (Finance) Act 1978 implements safeguards in connection with nuclear weapons and provides financing for phase two of Drax power station.
 
-Economy 7 tariff introduced for low cost off-peak electricity.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>1976</h2>
-      <p>Hinkley Point B and Hunterston B nuclear power stations open using the first advanced gas-cooled reactors.</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>1974</h2>
-      <p>Drax power station commissions the first 660 MW turbo-alternators.</p>
-    </div>
-  </div>
 </div>
-  <div class="container left">
-    <div class="content">
-      <h2>1973</h2>
-      <p>The North Wales Hydro Electric Power Act 1973 allows the pumped-hydro scheme, Dinorwig, to be constructed.</p>
-    </div>
-  </div>
-  <div class="container right">
- <div class="content">
-      <h2>1972</h2>
-      <p>The Electricity Act 1972 increases the borrowing powers of the Electricity Council and electricity boards in England and Wales.</p>
-    </div>
-  </div>
-</div>
-  <div class="container left">
-    <div class="content">
-      <h2>1988</h2>
-      <p>Adoption of the European Union's Large Combustion Plant Directive to combat acid rain due to flue gases of power plants.</p>
-    </div>
-  </div>
-  <div class="container right">
-
 
 </body>
 </html>
