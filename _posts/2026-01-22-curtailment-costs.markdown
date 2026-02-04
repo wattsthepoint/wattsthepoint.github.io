@@ -11,7 +11,7 @@ Great Britain (GB) is expected to heavily decarbonise its electricity supply by 
 Where transmission capacity cannot be securely managed, generation is curtailed at a cost to the consumer. Curtailment can be for different reasons; however, the simplest and most common are thermal constraints, where the generators which should be producing power are told not to because the system around it is already at its maximum current carrying capacity. The market works such that the units of electricity that would have been generated, were the generator not curtailed, are still paid for, even though they are not used. As demand and generation need to be met continuously in realtime, this power must be purchased from elsewhere, generally from dispatchable equipment such as combined cycle gas turbines. In effect, one unit of electricity is paid for twice, and the first unit is not utilised at all when curtailments are made. These costs are all subsidised by the consumer. NESO currently [report](https://www.neso.energy/data-portal/constraint-breakdown) annual constraint costs approaching £2 billion, as displayed in Figure 1, and estimates in the [Clean Power 2030](https://www.neso.energy/publications/clean-power-2030) report that these costs may increase to £12.7 billion in 2030 without interventions. 
 
 ![Constraint costs figure](/assets/images/constraints.svg)
-_Figure 1. Great Britain's annual electricity transmission constraint costs 2017-2025._
+_Figure 1. Great Britain's annual [electricity transmission constraint costs](https://www.neso.energy/data-portal/constraint-breakdown) 2017-2025._
 
 ## Mitigations for future curtailment costs
 
