@@ -1,349 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>UK Electricity Timeline</title>
-
-<style>
-/* General Styling */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  background: #f4f4f4;
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  text-align: center;
-  padding: 30px 10px;
-}
-
-/* Timeline Container */
-.timeline {
-  position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 40px 0;
-}
-
-/* Vertical Line */
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: #2196F3;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-/* Containers */
-.container {
-  padding: 20px 40px;
-  position: relative;
-  width: 50%;
-  box-sizing: border-box;
-}
-
-/* Circles */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -13px;
-  background-color: white;
-  border: 4px solid #2196F3;
-  top: 25px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-/* Left */
-.left {
-  left: 0;
-}
-
-/* Right */
-.right {
-  left: 50%;
-}
-
-.right::after {
-  left: -13px;
-}
-
-/* Content */
-.content {
-  padding: 20px;
-  background-color: white;
-  position: relative;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-}
-
-.content h2 {
-  margin-top: 0;
-  color: #2196F3;
-}
-
-/* Responsive */
-@media screen and (max-width: 768px) {
-
-  .timeline::after {
-    left: 31px;
-  }
-
-  .container {
-    width: 100%;
-    padding-left: 70px;
-    padding-right: 25px;
-  }
-
-  .container::after {
-    left: 18px;
-  }
-
-  .right {
-    left: 0%;
-  }
-}
-</style>
-</head>
-
-<body>
-
-<h1>UK Electricity Industry Timeline</h1>
-
 <div class="timeline">
 
-  <div class="container left">
-    <div class="content">
-      <h2>2024</h2>
+  <div class="timeline-item left">
+    <div class="timeline-box">
+      <h3>2024</h3>
       <p>Ratcliffe-on-Soar power station closes, marking the final use of coal power in Britain.</p>
     </div>
   </div>
 
-  <div class="container right">
-    <div class="content">
-      <h2>2018</h2>
+  <div class="timeline-item right">
+    <div class="timeline-box">
+      <h3>2018</h3>
       <p>Domestic Gas and Electricity Tariff Cap Act introduced.</p>
     </div>
   </div>
 
-  <div class="container left">
-    <div class="content">
-      <h2>2010</h2>
+  <div class="timeline-item left">
+    <div class="timeline-box">
+      <h3>2010</h3>
       <p>Energy Act 2010 supports low-carbon transition.</p>
     </div>
   </div>
 
-  <div class="container right">
-    <div class="content">
-      <h2>2008</h2>
-      <p>Energy Act 2008 introduces smart meters and renewables obligation.</p>
+  <div class="timeline-item right">
+    <div class="timeline-box">
+      <h3>2008</h3>
+      <p>Energy Act introduces smart meters and renewables.</p>
     </div>
   </div>
 
-  <div class="container left">
-    <div class="content">
-      <h2>2004</h2>
+  <div class="timeline-item left">
+    <div class="timeline-box">
+      <h3>2004</h3>
       <p>Nuclear Decommissioning Authority formed.</p>
     </div>
   </div>
 
-  <div class="container right">
-    <div class="content">
-      <h2>2000</h2>
+  <div class="timeline-item right">
+    <div class="timeline-box">
+      <h3>2000</h3>
       <p>Utilities Act establishes Ofgem.</p>
     </div>
   </div>
 
-  <div class="container left">
-    <div class="content">
-      <h2>1990</h2>
-      <p>Central Electricity Generating Board privatised.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1989</h2>
-      <p>Electricity Act 1989 enables privatisation.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1988</h2>
-      <p>Large Combustion Plant Directive adopted.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1986</h2>
-      <p>IFA 2000 interconnector commissioned.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1979</h2>
-      <p>Gas turbines used as primary power sources.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1978</h2>
-      <p>Economy 7 tariff introduced.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1976</h2>
-      <p>Hinkley Point B and Hunterston B open.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1974</h2>
-      <p>Drax commissions 660 MW turbo-alternators.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1973</h2>
-      <p>Dinorwig pumped-storage approved.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1972</h2>
-      <p>Electricity Act expands borrowing powers.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1969</h2>
-      <p>West Burton A reaches 2 GW output.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1966</h2>
-      <p>Ferrybridge C uses 500 MW generators.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1965</h2>
-      <p>400 kV supergrid commissioned.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1963</h2>
-      <p>Blyth B uses 275 MW generators.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1962</h2>
-      <p>First Magnox stations commissioned.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1959</h2>
-      <p>High Marnham becomes largest in Europe.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1957</h2>
-      <p>Electricity Act establishes CEGB.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1956</h2>
-      <p>First 100 MW generators installed.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1955</h2>
-      <p>North Wales hydro schemes approved.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1953</h2>
-      <p>275 kV supergrid commissioned.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1952</h2>
-      <p>First HVDC link commissioned.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1947</h2>
-      <p>Electricity Act nationalises industry.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1933</h2>
-      <p>132 kV network interconnected.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1926</h2>
-      <p>Central Electricity Board formed.</p>
-    </div>
-  </div>
-
-  <div class="container left">
-    <div class="content">
-      <h2>1919</h2>
-      <p>Electricity Commission created.</p>
-    </div>
-  </div>
-
-  <div class="container right">
-    <div class="content">
-      <h2>1882</h2>
-      <p>World’s first coal-fired power station opens in London.</p>
-    </div>
-  </div>
-
 </div>
-
-</body>
-</html>
