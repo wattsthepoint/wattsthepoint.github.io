@@ -1,0 +1,42 @@
+---
+title:  "A critical look at vehicle-to-grid technology in Great Britain"
+date:   2026-02-04 02:00:24 +0000
+categories: [Domestic energy, Electric vehicles]
+tags: [electric vehicles]     # TAG names should always be lowercase
+---
+
+In recent years, the idea of turning thousands of electric cars sitting idle on driveways into a vast, distributed energy storage system has captured the imagination of policymakers, energy companies, and the media. Vehicle-to-grid (V2G) technology promises that your electric vehicle (EV) could send electricity back into the grid at times of high demand, helping to balance the energy system while also delivering financial benefits to drivers.
+
+At least in theory, V2G offers a strong solution to two major challenges: managing renewable energy intermittency and reducing consumer energy costs. In practice, however, the reality is much more nuanced.
+
+## How Does V2G Work?
+
+Standard EVs and home chargers are monodirectional: electricity flows only one way, into the vehicle. Discharging is reserved for driving and normal use. V2G-ready vehicles and chargers are different. They are bidirectional, meaning they can both charge the battery and send electricity back to the grid when requested by energy suppliers.
+
+In principle, this makes V2G highly attractive. It could help manage the intermittency of wind and solar power without the need for large, centralised storage facilities. It could also, in theory, reduce household electricity bills. For these reasons, V2G is often presented as a win-win solution.
+
+## The Challenges of V2G in 2026
+
+While V2G may appear to address several major problems facing the electricity system, its practical implementation remains limited. At present, the [Octopus Power Pack](https://octopus.energy/power-pack/) is the only active V2G scheme in Great Britain. It offers free EV charging (up to the equivalent of 625 miles per month) in exchange for keeping a vehicle plugged in for at least 12 hours per day on 20 days per month. Compared with the [Octopus Go tariff](https://octopus.energy/smart/intelligent-octopus-go/), this represents a potential saving of around £180 per year, assuming all charging is carried out at the 7p/kWh off-peak rate. 
+
+### Limited Compatibility
+
+The Power Pack scheme has an extremely limited number of compatible cars and chargers: a Nissan Leaf, Nissan e-NV200 or Mitsubishi Outlander PHEV with a Wallbox Quasar v1 charger or a BYD Dolphin with a Zaptec Pro. The Wallbox Quasar v1 charger is no longer in production, and the Zaptec Pro requires a three-phase supply, making neither of these options possible for new domestic customers wanting to get on the Power Pack scheme. Octopus states that they are working hard to expand the list of compatible vehicles and chargers.
+
+### High Equipment Costs
+
+Since bidirectional chargers are different from standard EV chargers, they come at a significant premium, with a [potential cost of £5,500](https://electricnation.org.uk/?ref=https%3A%2F%2Fduckduckgo.com%2F) based on a trial conducted by Western Power Distribution in 2021, which is over five times the cost of a [standard EV charger](https://octopus.energy/ev-charger-faq/). These chargers also require approval from the Distribution Network Operator through the G99 process. Due to these costs, it is clear that no financial gains will be made using this scheme for many years, which is why uptake has been sluggish and dominated by funded trials.
+
+### Battery Degradation
+
+Another important concern is battery wear. V2G requires batteries to charge and discharge more frequently than under normal driving conditions. Each charge–discharge cycle contributes to gradual degradation, reducing capacity over time. This affects both vehicle range and resale value. [One 10-year study](https://www.sciencedirect.com/science/article/pii/S0306261924019299#s0065) estimated that battery degradation could be accelerated by around 10% as a result of V2G services. 
+
+However, the picture is not entirely negative. Battery ageing is influenced not only by usage but also by “calendar ageing”, which occurs even when a vehicle is idle. Extreme states of charge, especially near 100%, accelerate this process. In some cases, carefully managed V2G systems may reduce degradation by keeping batteries within healthier operating ranges. A study by the [University of Warwick](https://wrap.warwick.ac.uk/id/eprint/88018/) determined that battery pack capacity fade could be cut by up to 9.1% using their smart grid algorithm.
+
+In practice, however, commercial energy schemes are unlikely to prioritise individual battery health over grid optimisation and profitability.
+
+## Opportunities for EVs
+
+While there are many blockers to deploying V2G at scale, EVs already offer significant savings compared to traditional vehicles in terms of running costs. Further work could be done, though, to allow for vehicles to take further advantage of low overnight EV charging tariffs by shifting further domestic load into this period, in other words, discharging during peak times to reduce energy requirements from the grid during the day. This could be done to deliver greater financial benefit to the consumer, whilst also handing over more control of the scheme, potentially maximising battery health.
+
+V2G may represent a long-term ambition rather than an immediate solution. Until costs fall, compatibility improves, and market incentives become clearer, its role in Britain’s energy system is likely to remain limited.
