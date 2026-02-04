@@ -9,6 +9,9 @@ In recent years, the idea of turning thousands of electric cars sitting idle on 
 
 At least in theory, V2G offers a strong solution to two major challenges: managing renewable energy intermittency and reducing consumer energy costs. In practice, however, the reality is much more nuanced.
 
+![ev charger](/assets/images/zaptaccharger.avif)
+_Figure 1. Zaptec EV charger._
+
 ## How Does V2G Work?
 
 Standard EVs and home chargers are monodirectional: electricity flows only one way, into the vehicle. Discharging is reserved for driving and normal use. V2G-ready vehicles and chargers are different. They are bidirectional, meaning they can both charge the battery and send electricity back to the grid when requested by energy suppliers.
