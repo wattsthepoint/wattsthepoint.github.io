@@ -24,11 +24,11 @@ While V2G may appear to address several major problems facing the electricity sy
 
 ### Limited compatibility
 
-The Power Pack scheme has an extremely limited number of compatible cars and chargers: a Nissan Leaf, Nissan e-NV200 or Mitsubishi Outlander PHEV with a Wallbox Quasar v1 charger or a BYD Dolphin with a Zaptec Pro. The Wallbox Quasar v1 charger is no longer in production, and the Zaptec Pro requires a three-phase supply, making neither of these options possible for new domestic customers wanting to get on the Power Pack scheme. Octopus states that they are working hard to expand the list of compatible vehicles and chargers.
+The Power Pack scheme has an extremely limited number of compatible cars and chargers: a Nissan Leaf, Nissan e-NV200 or Mitsubishi Outlander PHEV with a Wallbox Quasar v1 charger or a BYD Dolphin with a Zaptec Pro. The Wallbox Quasar v1 charger is no longer in production, and the Zaptec Pro is currently available at a [reasonable price](https://www.ecowizard.co.uk/ev-chargers/zaptec-pro-22kw-mid-meter-socket-ev-charger/?msclkid=fb37fbe633e61f126d53926575d4ad7f&utm_source=bing&utm_medium=cpc&utm_campaign=EWZ%20-%20EV%20Charger&utm_term=4575892549056610&utm_content=Ad%20group%20%231). Octopus states that they are working hard to expand the list of compatible vehicles and chargers.
 
 ### High equipment costs
 
-Since bidirectional chargers are different from standard EV chargers, they come at a significant premium, with a [potential cost of £5,500](https://electricnation.org.uk/?ref=https%3A%2F%2Fduckduckgo.com%2F) based on a trial conducted by Western Power Distribution in 2021, which is over five times the cost of a [standard EV charger](https://octopus.energy/ev-charger-faq/). These chargers also require approval from the Distribution Network Operator through the G99 process. Due to these costs, it is clear that no financial gains will be made using this scheme for many years, which is why uptake has been sluggish and dominated by funded trials.
+Since bidirectional chargers are different from standard EV chargers, they come at a significant premium, with a [potential cost of up to £5,500](https://electricnation.org.uk/?ref=https%3A%2F%2Fduckduckgo.com%2F) based on a trial conducted by Western Power Distribution in 2021, which is over five times the cost of a [standard EV charger](https://octopus.energy/ev-charger-faq/). These chargers also require approval from the Distribution Network Operator through the G99 process. Due to these costs, it is clear that no financial gains will be made using this scheme for many years, which is why uptake has been sluggish and dominated by funded trials.
 
 ### Battery degradation
 
