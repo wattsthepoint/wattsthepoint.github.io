@@ -18,7 +18,7 @@ _Figure 1. Great Britain's [average generation mix](https://www.gov.uk/governmen
 Although the electricity utilised in homes and businesses is not provided by a specific generator, rather an “electricity pool” represented by a national average, as in Figure 1, suppliers do purchase specific units of energy from individual generators to then sell to consumers. This means that consumers with suppliers that only purchase renewable energy directly subsidise renewable energy infrastructure rather than fossil fuel-fired generation. For comparison purposes, the resource data from all GB electricity suppliers has been collated in Table 1. 
 
 <p align="center">
-Table 1. Electricity supplier resource allocation between April 1, 2024 to March 31, 2025 ranked from low to high in terms of emissions associated with power generation.
+Table 1. Electricity supplier resource allocation percentages between April 1, 2024 to March 31, 2025 ranked from low to high in terms of associated greenhouse gas emissions.
 </p>
 
 <div style="text-align: center;">
