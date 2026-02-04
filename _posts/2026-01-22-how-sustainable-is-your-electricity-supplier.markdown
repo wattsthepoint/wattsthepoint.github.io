@@ -11,7 +11,7 @@ Electricity suppliers are mandated under their licence conditions to publicly sh
 The sources of electricity in Great Britain (GB) which supply demand, referred to as the generation mix, have undergone significant changes over the past 50 years, with the 1980s and 1990s marking a shift from a predominantly coal-based power supply to one based on natural gas. Although not a reason for the shift, this had an impact on emissions since, in terms of CO<sub>2</sub>, coal produces 919 g/kWh compared with natural gas, which produces 382 g/kWh. Since the 2010s, a drive to increase zero-emission resources such as renewable and (significantly less so) nuclear energy has occurred. Under the government's [Clean Power 2030 Action Plan](https://www.gov.uk/government/publications/clean-power-2030-action-plan), it is anticipated that 95% of electricity demand will be from clean resources, reducing the overall CO<sub>2</sub> emissions intensity to 50 g/kWh. To achieve this, the energy transition away from fossil fuel-based resources will need to accelerate even more quickly. The fuel mix of GB electricity from 2024-2025 is illustrated in Figure 1. Note that coal still holds a significant portion at 6% since this considers imports from European markets, which, unlike GB, still depend in part on coal for electricity.
 
 ![GB gen mix](/assets/images/generationmix.svg)
-_Figure 1. Great Britain's average generation mix between April 1, 2024 to March 31, 2025._
+_Figure 1. Great Britain's [average generation mix](https://www.gov.uk/government/publications/fuel-mix-disclosure-data-table/fuel-mix-disclosure-data-table) between April 1, 2024 to March 31, 2025._
 
 ## Electricity supplier fuel mixes
 
