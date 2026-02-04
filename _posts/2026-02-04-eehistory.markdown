@@ -1,8 +1,8 @@
 ---
-title:  "Test Post"
+title:  "Timeline of Great Britain's electricity supply industry"
 date:   2026-02-04 02:00:24 +0000
-categories: [Domestic energy, Electric vehicles]
-tags: [electric vehicles]     # TAG names should always be lowercase
+categories: [Power networks, History]
+tags: [electricity supply]     # TAG names should always be lowercase
 ---
 
 
@@ -21,7 +21,7 @@ body {
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
