@@ -60,6 +60,16 @@ tags: [history]
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-text">
+      <div class="timeline-year">2005</div>
+      <div class="timeline-content">
+        Electricity demand peaks at just under 400 TWh.
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-text">
       <div class="timeline-year">2004</div>
       <div class="timeline-content">
         The Energy Act 2004 forms the Nuclear Decommissioning Authority.
@@ -83,6 +93,13 @@ tags: [history]
       <div class="timeline-year">1990</div>
       <div class="timeline-content">
         The Central Electricity Generating Board is privatised.
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+      <div class="timeline-content">
+        The strongest ever 'TV pickup' occurs at 2.8 GW following England’s loss to Germany in the World Cup semi-finals..
       </div>
     </div>
   </div>
