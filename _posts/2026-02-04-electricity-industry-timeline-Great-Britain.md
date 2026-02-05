@@ -99,6 +99,21 @@ tags: [history]
   </div>
 
   <div class="timeline-item">
+  <div class="timeline-dot"></div>
+  <div class="timeline-text">
+    <div class="timeline-year">1990</div>
+    <div class="timeline-content">
+      <p>
+        The Central Electricity Generating Board is privatised.
+      </p>
+      <p>
+        The strongest ever 'TV pickup' occurs at 2.8 GW following England’s loss to Germany in the World Cup semi-finals.
+      </p>
+    </div>
+  </div>
+</div>
+
+  <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-text">
       <div class="timeline-year">1989</div>
@@ -158,16 +173,21 @@ tags: [history]
     </div>
   </div>
 
-  <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-text">
-      <div class="timeline-year">1974</div>
-      <div class="timeline-content">
+<div class="timeline-item">
+  <div class="timeline-dot"></div>
+  <div class="timeline-text">
+    <div class="timeline-year">1974</div>
+    <div class="timeline-content">
+      <p>
         The miners strikes and dependance on coal power results in electricity rationing for businesses – a three-day working week enforced for three months.
-        Drax power station commissions its first 660 MW turbo-alternators.
-      </div>
+      </p>
+      <p>
+        Drax power station commissions its first 660&nbsp;MW turbo-alternators.
+      </p>
     </div>
   </div>
+</div>
+
 
   <div class="timeline-item">
     <div class="timeline-dot"></div>
