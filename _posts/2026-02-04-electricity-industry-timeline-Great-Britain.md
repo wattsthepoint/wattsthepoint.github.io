@@ -62,7 +62,7 @@ tags: [history]
     <div class="timeline-text">
       <div class="timeline-year">2005</div>
       <div class="timeline-content">
-        Electricity demand peaks at just under 400 TWh.
+        Annual electricity demand peaks at just under 400 TWh.
       </div>
     </div>
   </div>
