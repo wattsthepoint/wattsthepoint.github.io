@@ -7,113 +7,6 @@ tags: [history]
 
 <div class="timeline">
 
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-text">
-      <div class="timeline-year">2024</div>
-      <div class="timeline-content">
-        Launched the new platform and onboarded first users.
-      </div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-text">
-      <div class="timeline-year">2022</div>
-      <div class="timeline-content">
-        Graduated and joined my first startup.
-      </div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <span class="timeline-dot"></span>
-    <div class="timeline-text">
-      <div class="timeline-year">2020</div>
-      <div class="timeline-content">
-        Started learning web development seriously.
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<style>
-:root {
-  --line-x: 18px;
-  --dot-size: 14px;
-  --line-width: 2px;
-  --connector-length: 24px;
-  --text-gap: 8px;
-}
-
-.timeline {
-  position: relative;
-  padding-left: 0;
-}
-
-/* vertical line */
-.timeline::before {
-  content: "";
-  position: absolute;
-  left: calc(var(--line-x) - var(--line-width) / 2);
-  top: 0;
-  bottom: 0;
-  width: var(--line-width);
-  background: #6c757d;
-}
-
-.timeline-item {
-  position: relative;
-  margin-bottom: 2rem;
-}
-
-/* horizontal connector */
-.timeline-item::before {
-  content: "";
-  position: absolute;
-  left: var(--line-x);
-  top: 0.85rem;
-  width: var(--connector-length);
-  height: var(--line-width);
-  background: #6c757d;
-}
-
-.timeline-dot {
-  position: absolute;
-  left: calc(var(--line-x) - var(--dot-size) / 2);
-  top: 0.5rem;
-  width: var(--dot-size);
-  height: var(--dot-size);
-  background: #0d6efd;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-.timeline-text {
-  margin-left: calc(
-    var(--line-x) +
-    var(--connector-length) +
-    var(--text-gap)
-  );
-}
-
-.timeline-year {
-  font-weight: 600;
-  font-size: 1.1rem;
-}
-
-.timeline-content {
-  margin-top: 0.25rem;
-  color: #555;
-}
-</style>
-
-
-
-<div class="timeline">
-
 <div class="timeline-item">
   <div class="timeline-dot"></div>
   <div class="timeline-year">2024</div>
@@ -385,6 +278,80 @@ tags: [history]
   <div class="timeline-content">
     Godalming, Surrey, becomes the first public electrical system in the world for street lighting housing using hydroelectricity. 
   </div>
-</div>
+</div>>
 
 </div>
+
+<style>
+:root {
+  --line-x: 18px;
+  --dot-size: 14px;
+  --line-width: 2px;
+  --connector-length: 24px;
+  --text-gap: 8px;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 0;
+}
+
+/* vertical line */
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: calc(var(--line-x) - var(--line-width) / 2);
+  top: 0;
+  bottom: 0;
+  width: var(--line-width);
+  background: #6c757d;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+/* horizontal connector */
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: var(--line-x);
+  top: 0.85rem;
+  width: var(--connector-length);
+  height: var(--line-width);
+  background: #6c757d;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: calc(var(--line-x) - var(--dot-size) / 2);
+  top: 0.5rem;
+  width: var(--dot-size);
+  height: var(--dot-size);
+  background: #0d6efd;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-text {
+  margin-left: calc(
+    var(--line-x) +
+    var(--connector-length) +
+    var(--text-gap)
+  );
+}
+
+.timeline-year {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.timeline-content {
+  margin-top: 0.25rem;
+  color: #555;
+}
+</style>
+
+
+
