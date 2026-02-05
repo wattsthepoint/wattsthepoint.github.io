@@ -94,7 +94,7 @@ Modern substations employ solid-state rectifiers based on silicon diodes, thyris
 Modern Underground trains use distributed traction systems with multiple powered axles, power electronics and regenerative braking. 
 
 <p align="center">
-Table 1. Parameters associated with the London Underground's rolling stock.
+Table 2. Parameters associated with the London Underground's rolling stock.
 </p>
 
 <table style="margin-left:auto; margin-right:auto; text-align:center;">
