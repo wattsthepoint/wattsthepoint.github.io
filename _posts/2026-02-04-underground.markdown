@@ -49,12 +49,32 @@ This infrastructure includes high-voltage cables, transformers, circuit breakers
 
 Unlike most metro systems, which use a single conductor rail and return current through the running rails, the London Underground employs a four-rail DC system.
 
-| Rail Type      | Typical Voltage |
-| -------------- | --------------- |
-| Positive rail  | +420 V DC       |
-| Negative rail  | −210 V DC       |
-| Running rails  | ~0 V DC      |
-| Nominal supply | 630 V DC        |
+<p align="center">
+Table 1. Parameters associated with the London Underground's four-rail system.
+</p>
+
+<table style="margin-left:auto; margin-right:auto; text-align:center;">
+  <tr>
+    <th>Rail Type</th>
+    <th>Typical Voltage</th>
+  </tr>
+  <tr>
+    <td>Positive rail</td>
+    <td>+420 V DC</td>
+  </tr>
+  <tr>
+    <td>Negative rail</td>
+    <td>−210 V DC</td>
+  </tr>
+  <tr>
+    <td>Running rails</td>
+    <td>~0 V DC</td>
+  </tr>
+  <tr>
+    <td>Nominal supply</td>
+    <td>630 V DC</td>
+  </tr>
+</table>
 
 The four-rail arrangement was adopted to minimise stray current and reduce corrosion of tunnel linings and nearby infrastructure. By preventing significant traction currents from flowing through the running rails, the system limits electrolytic damage and improves long-term structural integrity.
 
@@ -69,15 +89,32 @@ Early conversion systems relied on rotary converters and motor-generator sets. A
 
 Modern substations employ solid-state rectifiers based on silicon diodes, thyristors, and increasingly IGBT technology. These systems provide high efficiency, compact design, and advanced remote monitoring capabilities, with conversion efficiencies typically exceeding 95%.
 
-## Stock onboard equipment
+## Rolling stock onboard equipment
 
-Modern Underground trains use distributed traction systems with multiple powered axles, power electronics and regenerative braking. Representative values for recent rolling stock are shown below.
+Modern Underground trains use distributed traction systems with multiple powered axles, power electronics and regenerative braking. 
 
-| Parameter            | Typical Value        |
-| -------------------- | -------------------- |
-| Supply voltage       | 630 V DC             |
-| Traction power       | Up to 2.5 MW |
-| Motor type           | AC induction or PMSM |
+<p align="center">
+Table 1. Parameters associated with the London Underground's rolling stock.
+</p>
+
+<table style="margin-left:auto; margin-right:auto; text-align:center;">
+  <tr>
+    <th>Parameter</th>
+    <th>Typical Value</th>
+  </tr>
+  <tr>
+    <td>Supply voltage</td>
+    <td>630 V DC</td>
+  </tr>
+  <tr>
+    <td>Traction power</td>
+    <td>Up to 2.5 MW</td>
+  </tr>
+  <tr>
+    <td>Motor type</td>
+    <td>AC induction or PMSM</td>
+  </tr>
+</table>
 
 ### Traction drive architecture
 
