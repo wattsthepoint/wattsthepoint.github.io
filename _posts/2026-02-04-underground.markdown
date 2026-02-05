@@ -23,6 +23,9 @@ Lots Road Power Station in Chelsea was commissioned in 1905 to supply the Distri
 
 Over time, the station underwent extensive modernisation. Early equipment was replaced by larger Parsons generators, and capacity was progressively increased. By the early 1930s, installed capacity exceededs exceeded 100 MW. Later conversions included oil firing and, in the 1970s, natural gas operation. As grid electricity became cheaper and more reliable, Lots Road was relegated to standby service and finally closed in 2001.
 
+![gps](/assets/images/lotsroad.jpg)
+_Figure 1. [Lots Road Power Station](https://commons.wikimedia.org/wiki/File:Lots.road.power.station.london.arp.jpg)._
+
 ### Greenwich Power Station
 
 Greenwich Power Station was commissioned in 1906 to support London’s tramway system and later the Underground. It initially employed steam engines driving alternators, before being upgraded with turbo-alternators. In the 1960s, these were replaced with Rolls-Royce gas turbine generators, giving a total capacity of approximately 118 MW.
@@ -30,7 +33,7 @@ Greenwich Power Station was commissioned in 1906 to support London’s tramway s
 Unlike Lots Road, Greenwich remains operational as an emergency power facility, providing resilience in the event of major supply failures.
 
 ![gps](/assets/images/greenwich.jpg)
-_Figure 1. [Greenwich Power Station building north face](https://commons.wikimedia.org/wiki/File:Greenwich_Power_Station_2026-01-24.jpg#filelinks)._
+_Figure 2. [Greenwich Power Station building north face](https://commons.wikimedia.org/wiki/File:Greenwich_Power_Station_2026-01-24.jpg#filelinks)._
 
 ### Neasden Power Station
 
