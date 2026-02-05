@@ -5,16 +5,52 @@ categories: [Energy, History]
 tags: [history]
 ---
 
+<div class="timeline">
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-text">
+      <div class="timeline-year">2024</div>
+      <div class="timeline-content">
+        Launched the new platform and onboarded first users.
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-text">
+      <div class="timeline-year">2022</div>
+      <div class="timeline-content">
+        Graduated and joined my first startup.
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <span class="timeline-dot"></span>
+    <div class="timeline-text">
+      <div class="timeline-year">2020</div>
+      <div class="timeline-content">
+        Started learning web development seriously.
+      </div>
+    </div>
+  </div>
+
+</div>
+
 <style>
 :root {
-  --line-x: 18px;          /* shared center axis */
+  --line-x: 18px;
   --dot-size: 14px;
   --line-width: 2px;
+  --connector-length: 24px;
+  --text-gap: 8px;
 }
 
 .timeline {
   position: relative;
-  padding-left: 0rem;
+  padding-left: 0;
 }
 
 /* vertical line */
@@ -39,7 +75,7 @@ tags: [history]
   position: absolute;
   left: var(--line-x);
   top: 0.85rem;
-  width: 24px;
+  width: var(--connector-length);
   height: var(--line-width);
   background: #6c757d;
 }
@@ -56,7 +92,11 @@ tags: [history]
 }
 
 .timeline-text {
-  margin-left: 2.5rem;
+  margin-left: calc(
+    var(--line-x) +
+    var(--connector-length) +
+    var(--text-gap)
+  );
 }
 
 .timeline-year {
