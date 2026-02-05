@@ -88,17 +88,6 @@ tags: [history]
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-dot"></div>
-    <div class="timeline-text">
-      <div class="timeline-year">1990</div>
-      <div class="timeline-content">
-        The Central Electricity Generating Board is privatised.
-        The strongest ever 'TV pickup' occurs at 2.8 GW following England’s loss to Germany in the World Cup semi-finals.
-      </div>
-    </div>
-  </div>
-
-  <div class="timeline-item">
   <div class="timeline-dot"></div>
   <div class="timeline-text">
     <div class="timeline-year">1990</div>
