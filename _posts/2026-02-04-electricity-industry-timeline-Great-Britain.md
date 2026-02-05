@@ -14,7 +14,7 @@ tags: [history]
 
 .timeline {
   position: relative;
-  padding-left: 3rem;
+  padding-left: 0rem;
 }
 
 /* vertical line */
@@ -69,6 +69,7 @@ tags: [history]
   color: #555;
 }
 </style>
+
 
 
 <div class="timeline">
