@@ -29,6 +29,9 @@ Greenwich Power Station was commissioned in 1906 to support London’s tramway s
 
 Unlike Lots Road, Greenwich remains operational as an emergency power facility, providing resilience in the event of major supply failures.
 
+![gps](/assets/images/greenwich.jpg)
+_Figure 1. [Greenwich Power Station building north face](https://commons.wikimedia.org/wiki/File:Greenwich_Power_Station_2026-01-24.jpg#filelinks)._
+
 ### Neasden Power Station
 
 Neasden was the smallest of the early Underground power stations. Commissioned in 1904, it initially operated with 3.5 MW turbo-alternators and later expanded with larger units. By the 1950s, its capacity approached 90 MW. The station ceased operation in 1968 as grid supply became dominant.
