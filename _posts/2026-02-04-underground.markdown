@@ -32,14 +32,14 @@ Greenwich Power Station was commissioned in 1906 to support London’s tramway s
 
 Unlike Lots Road, Greenwich remains operational as an emergency power facility, providing resilience in the event of major supply failures.
 
-![gps](/assets/images/greenwich.jpg)
+![lrps](/assets/images/greenwich.jpg)
 _Figure 2. [Greenwich Power Station building north face](https://commons.wikimedia.org/wiki/File:Greenwich_Power_Station_2026-01-24.jpg#filelinks)._
 
 ### Neasden Power Station
 
 Neasden was the smallest of the early Underground power stations. Commissioned in 1904, it initially operated with 3.5 MW turbo-alternators and later expanded with larger units. By the 1950s, its capacity approached 90 MW. The station ceased operation in 1968 as grid supply became dominant.
 
-## Present-Day Power Supply Architecture
+## Present-day power supply architecture
 
 Today, London Underground draws electricity from the National Grid at eight bulk supply points, typically at 22 or 33 kV. Power is distributed through a dedicated network comprising around 270 substations across approximately 250 miles of track.
 
@@ -57,6 +57,9 @@ Unlike most metro systems, which use a single conductor rail and return current 
 | Nominal supply | 630 V DC        |
 
 The four-rail arrangement was adopted to minimise stray current and reduce corrosion of tunnel linings and nearby infrastructure. By preventing significant traction currents from flowing through the running rails, the system limits electrolytic damage and improves long-term structural integrity.
+
+![gps](/assets/images/tube.jpg)
+_Figure 3. [Underground warning signs](https://unsplash.com/photos/a-sign-that-is-on-the-side-of-a-train-s_DM6iTSb2s)._
 
 ## Traction substations and conversion
 
