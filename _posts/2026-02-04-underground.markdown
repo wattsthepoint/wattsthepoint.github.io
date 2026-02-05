@@ -1,5 +1,5 @@
 ---
-title:  "Powering the London Underground"
+title:  "Powering the London Underground: over 100 years of change"
 date:   2026-02-05 02:00:24 +0000
 categories: [Power networks, London Underground]
 tags: [london underground]     # TAG names should always be lowercase
