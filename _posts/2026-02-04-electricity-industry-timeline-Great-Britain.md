@@ -6,36 +6,57 @@ tags: [history]
 ---
 
 <style>
-.timeline {
-  position: relative;
-  margin: 2rem 0;
-  padding-left: 2rem;
+:root {
+  --line-x: 18px;          /* shared center axis */
+  --dot-size: 14px;
+  --line-width: 2px;
 }
 
+.timeline {
+  position: relative;
+  padding-left: 3rem;
+}
+
+/* vertical line */
 .timeline::before {
   content: "";
   position: absolute;
-  left: 6px;
+  left: calc(var(--line-x) - var(--line-width) / 2);
   top: 0;
   bottom: 0;
-  width: 2px;
-  background: var(--timeline-color, #6c757d);
+  width: var(--line-width);
+  background: #6c757d;
 }
 
 .timeline-item {
   position: relative;
   margin-bottom: 2rem;
-  padding-left: 1.5rem;
+}
+
+/* horizontal connector */
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: var(--line-x);
+  top: 0.85rem;
+  width: 24px;
+  height: var(--line-width);
+  background: #6c757d;
 }
 
 .timeline-dot {
   position: absolute;
-  left: -2px;
-  top: 0.3rem;
-  width: 14px;
-  height: 14px;
-  background: var(--bs-primary);
+  left: calc(var(--line-x) - var(--dot-size) / 2);
+  top: 0.5rem;
+  width: var(--dot-size);
+  height: var(--dot-size);
+  background: #0d6efd;
   border-radius: 50%;
+  z-index: 1;
+}
+
+.timeline-text {
+  margin-left: 2.5rem;
 }
 
 .timeline-year {
@@ -45,9 +66,10 @@ tags: [history]
 
 .timeline-content {
   margin-top: 0.25rem;
-  color: var(--text-color);
+  color: #555;
 }
 </style>
+
 
 <div class="timeline">
 
