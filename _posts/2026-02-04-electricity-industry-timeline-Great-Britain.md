@@ -1,6 +1,6 @@
 ---
 title: "A brief timeline of Great Britain's electricity industry"
-date: 2026-02-04
+date: 2026-02-04 06:00:24 +0000
 categories: [Energy, History]
 tags: [history]
 ---
@@ -56,6 +56,14 @@ tags: [history]
   <div class="timeline-year">2024</div>
   <div class="timeline-content">
     Ratcliffe-on-Soar power station closes, marking the final use of coal power in Britain.
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-dot"></div>
+  <div class="timeline-year">2019</div>
+  <div class="timeline-content">
+    More electricity is generated from renewable resources than fossil fuels.
   </div>
 </div>
 
@@ -143,7 +151,7 @@ tags: [history]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1978</div>
   <div class="timeline-content">
-    Nuclear Safeguards and Electricity (Finance) Act 1978; Economy 7 tariff introduced.
+    Nuclear Safeguards and Electricity (Finance) Act 1978 and Economy 7 tariff introduced.
   </div>
 </div>
 
@@ -159,6 +167,7 @@ tags: [history]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1974</div>
   <div class="timeline-content">
+    The miners strikes and dependance on coal power results in electricity rationing for businesses- a three-day working week enforced for three months.
     Drax power station commissions its first 660 MW turbo-alternators.
   </div>
 </div>
@@ -168,14 +177,6 @@ tags: [history]
   <div class="timeline-year">1973</div>
   <div class="timeline-content">
     North Wales Hydro Electric Power Act enables construction of Dinorwig (the Electric Mountain).
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-dot"></div>
-  <div class="timeline-year">1972</div>
-  <div class="timeline-content">
-    Electricity Act 1972 increases borrowing powers of electricity boards.
   </div>
 </div>
 
@@ -303,7 +304,23 @@ tags: [history]
   <div class="timeline-dot"></div>
   <div class="timeline-year">1882</div>
   <div class="timeline-content">
-    Edison Electric Light Station opens at Holborn Viaduct, London.
+    Edison Electric Light Station opens at Holborn Viaduct (the worl's first coal-fired power station), London.
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-dot"></div>
+  <div class="timeline-year">1882</div>
+  <div class="timeline-content">
+    Deptford Power Station opens, the first single-phase AC power system, designed by Sebastian Ziani de Ferranti.
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-dot"></div>
+  <div class="timeline-year">1881</div>
+  <div class="timeline-content">
+    Godalming, Surrey, becomes the first public electrical system in the world for street lighting housing using hydroelectricity. 
   </div>
 </div>
 
