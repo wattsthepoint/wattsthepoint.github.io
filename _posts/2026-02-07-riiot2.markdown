@@ -1,0 +1,74 @@
+---
+title:  "2024/25 electricity Transmission Operator performance in Great Britain"
+date:   2026-02-07 02:00:24 +0000
+categories: [Power networks, Transmission]
+tags: [ofgem]     # TAG names should always be lowercase
+---
+
+Transmission Owners (TOs) are the licensed companies responsible for building, operating and maintaining the onshore high voltage electricity transmission networks in Great Britain. These networks can be thought of as the electrical equivalent of motorways in highways. The companies are National Grid Electricity Transmission (NGET) in England & Wales, Scottish Hydro Electric Transmission (SHET) in northern Scotland, and SP Transmission (SPT) in southern Scotland. A regulator (Ofgem) oversees these monopolies to ensure that they deliver reliable, efficient and affordable transmission services for consumers, using a framework called RIIO-ET2. RIIO-ET2, or Revenue = Incentives + Innovation + Outputs, is the five-year price control (2021–2026) that sets the revenue TOs can earn and links it to performance through incentives for cost efficiency, innovation, environmental improvement and delivery of required outputs. It uses mechanisms such as Output Delivery Incentives, totex sharing, uncertainty mechanisms, and Price Control Deliverables to encourage TOs to deliver what the system needs at the lowest cost while supporting the transition to net zero.
+
+This article summarises the key data from [Ofgem's 2024/25 performance report](https://www.ofgem.gov.uk/transparency-document/riio-2-electricity-transmission-annual-report-2024-2025) on all three TOs, comparing this with the previous three years. It is worth noting that NGET manages a significantly larger network than SPT and SHET, meaning that not all performance points can be directly compared. 
+
+## How are transmission operators penalised and rewarded?
+
+RIIO-ET2 is built around financial incentives designed to reward TOs for good performance and penalise poor performance. These fall into four major areas.
+
+### 1. Output Delivery Incentives (ODIs)
+
+These directly reward or penalise TOs based on service quality and consist of the following key areas.
+
+#### a. Energy Not Supplied (ENS)
+
+Energy not supplied applies after three minutes of disconnection from the transmission system due to reasons such as faults. Figure 1 displays the generally high performance of the transmission system with a overall reliability of 99.9998%. NGET had significantly worse performance in 2024/25, not meeting its ENS target, this was driven almost entirely by the North Hyde incident.
+
+![ENS](/assets/images/ENS.svg)
+_Figure 1. TO Energy not Supplied from 2021-25._
+
+#### b. TO general greenhouse gas emissions
+
+All three TOs saw a decrease in general greenhouse gas emissions compared to the previous performance year.
+
+![BUSINESS CO2](/assets/images/BIZCO2.svg)
+_Figure 2. TO general business greenhouse gas emissions from 2021-25 excluding insulating gas leaks._
+
+#### c. Quality of customer connection survey 2021-25
+
+From Figure 3, SPT and SHET met survey targets. NGET again underperformed, leading to cumulative penalties of £13.4m.
+
+![QOCCS](/assets/images/QOCCS.svg)
+_Figure 3. TO quality of customer connection survey from 2021-25 (7.7 target for all TOs)._
+
+#### d. Insulating gas leaks
+
+Insulating gases, used in equipment such as circuit breakers and gas insulated busbars, such as sulphur hexafluoride, have significant global warming potential. Minimising these leaks is essential to minimise environmental impact. Figure 4 shows that gas leaks were consistent with previous years during 2024/25. SHET achieved its lowest leakage rate since 2018/19 (0.10%), well below target. Increases can be attributed to asset replacements and unique incidents, which is why a year-on-year decrease is not necessarily witnessed.
+
+![SG6LEAKS](/assets/images/SG6LEAKS.svg)
+_Figure 4. TO greenhouse gas emissions as a result of insulating gas leaks from 2021-25._
+
+#### e. SO-TO optimisation incentive
+
+This mechanism has improved coordination between TOs and NESO and reduced balancing and congestion costs. Figure 5 shows that this the incentives given were significantly lower during 2024/25.
+
+![sotoop](/assets/images/sotoop.svg)
+_Figure 5. SO-TO optimisation incentive 2023-25._
+
+####n f. Timely connections
+
+Figure 6 shows the good overall performance of TOs in terms of timely connection. SHET achieved 100% of timely connections, which is the target for all three TOs, whereas SPT and NGET fell just short.
+
+![Timleyconnections](/assets/images/TIMELYCONNECTION.svg)
+_Figure 6. Percentage of connections delivered in a timely manner 2021-25._
+
+### 2. Totex Incentive Mechanism (TIM)
+TOs are given a portion of their underspends (e.g. NGET receive 33%) and the consumer is returned the remainder. Where the TO overspends, this is partially paid for by the TO. All the TOs currently anticipate an underspend across RIIO-ET2 price control period, with NGET’s 3%, SPT’s 5% and SHET's 7%.
+
+### 3. Uncertainty Mechanisms (UMs)
+
+Uncertainty Mechanisms (UMs) are regulatory tools designed to adjust allowances in response to changes in project scope, volume, or timing. They operate either automatically, through predefined volume drivers, or through formal re-opener processes. Their primary purpose is to balance risk between consumers and Transmission Owners (TOs).
+
+UMs provide protection by ensuring that consumers do not pay for outputs that are not delivered or no longer required and that TOs are not unduly exposed to financial risk arising from unpredictable demand or policy-driven change.
+
+There are certain principles of uncertainty mechansims. These include changes in allowances due to demand and generation connections requests. Re-openers which allow companies to request additional funding where material changes in circumstances arise. Applications must pass economic and value-for-money tests, reinforcing cost discipline and efficiency. Use-it-or-lose-it provisions mean that funding is withdrawn if agreed outputs are not delivered within the required timescales.
+
+### 4. Price Control Deliverables (PCDs)
+TOs receive allowances only if specific outputs are delivered. Ofgem are rebated if projects are delivered late, to the wrong specification, or not delivered. This includes baseline load, wider works, security, and asset health programmes.
