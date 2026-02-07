@@ -28,7 +28,7 @@ _Figure 1. TO Energy not Supplied from 2021-25._
 
 All three TOs saw a decrease in general greenhouse gas emissions compared to the previous performance year.
 
-![BUSINESS CO2](/assets/images/BIZCO2.svg)
+![BUSINESS CO2](/assets/images/bizco2.png)
 _Figure 2. TO general business greenhouse gas emissions from 2021-25 excluding insulating gas leaks._
 
 #### c. Quality of customer connection survey 2021-25
@@ -42,7 +42,7 @@ _Figure 3. TO quality of customer connection survey from 2021-25 (7.7 target for
 
 Insulating gases, used in equipment such as circuit breakers and gas insulated busbars, such as sulphur hexafluoride, have significant global warming potential. Minimising these leaks is essential to minimise environmental impact. Figure 4 shows that gas leaks were consistent with previous years during 2024/25. SHET achieved its lowest leakage rate since 2018/19 (0.10%), well below target. Increases can be attributed to asset replacements and unique incidents, which is why a year-on-year decrease is not necessarily witnessed.
 
-![SG6LEAKS](/assets/images/SG6LEAKS.svg)
+![SG6LEAKS](/assets/images/sf6leaks.png)
 _Figure 4. TO greenhouse gas emissions as a result of insulating gas leaks from 2021-25._
 
 #### e. SO-TO optimisation incentive
