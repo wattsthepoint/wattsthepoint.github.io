@@ -80,7 +80,7 @@ NGET’s RIIO-2 performance has been mixed. While load-related investment accele
 
 ### SHET
 
-SHET has delivered major strategic outputs, including the Shetland HVDC link, and performs strongly on emissions and connection timeliness. However, it is forecast to achieve only 77% of planned asset health volumes, alongside a 45% underspend in its NLR portfolio, driven by programme delays. Despite costs being £0.3bn below allowance, end-of-period adjustments are expected to result in a £31m overspend, highlighting continued delivery pressure.
+SHET has delivered major strategic outputs, including the Shetland HVDC link, and performs strongly on emissions and connection timeliness. However, it is forecast to achieve only 77% of planned asset health volumes, alongside a 45% underspend in its NLR portfolio, driven by programme delays. Despite costs being £300m below allowance, end-of-period adjustments are expected to result in a £31m overspend, highlighting continued delivery pressure.
 
 ### SPT
 
