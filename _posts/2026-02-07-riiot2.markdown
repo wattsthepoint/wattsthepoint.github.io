@@ -49,7 +49,7 @@ _Figure 4. TO greenhouse gas emissions as a result of insulating gas leaks from 
 
 This mechanism has improved coordination between TOs and NESO to reduce balancing and constraint costs. This ultimately saves money for the consumer. Figure 5 shows that this the incentives given were significantly lower during 2024/25.
 
-![sotoop](/assets/images/sotoop.svg)
+![sotoop](/assets/images/soto.png)
 _Figure 5. SO-TO optimisation incentive 2023-25._
 
 #### f. Timely connections
