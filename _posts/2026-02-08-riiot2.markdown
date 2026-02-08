@@ -1,6 +1,6 @@
 ---
 title:  "2024/25 electricity Transmission Operator performance in Great Britain"
-date:   2027-02-07 02:00:24 +0000
+date:   2027-02-08 02:00:24 +0000
 categories: [Power networks, Transmission]
 tags: [ofgem]     # TAG names should always be lowercase
 ---
@@ -21,7 +21,7 @@ These directly reward or penalise TOs based on service quality and consist of th
 
 Energy not supplied applies after three minutes of disconnection from the transmission system due to reasons such as faults. Figure 1 displays the generally high performance of the transmission system, with a overall reliability of 99.9998%. NGET had significantly worse performance in 2024/25, not meeting its ENS target, 95% of this was driven almost entirely by the North Hyde incident in March 2025 which caused disruption for Heathrow airport and West London.
 
-![ENS](/assets/images/ENS.svg)
+![ENS](/assets/images/ens.png)
 _Figure 1. TO Energy not Supplied from 2021-25._
 
 #### b. TO general greenhouse gas emissions
@@ -35,7 +35,7 @@ _Figure 2. TO general business greenhouse gas emissions from 2021-25 excluding i
 
 From Figure 3, SPT and SHET met survey targets. NGET again underperformed, leading to cumulative penalties of £13.4m.
 
-![QOCCS](/assets/images/QOCCS.svg)
+![QOCCS](/assets/images/qocss.png)
 _Figure 3. TO quality of customer connection survey from 2021-25 (7.7 target for all TOs)._
 
 #### d. Insulating gas leaks
