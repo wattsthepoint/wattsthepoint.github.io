@@ -76,7 +76,7 @@ TOs receive allowances only if specific outputs are delivered. Ofgem are rebated
 ## Summary 
 ### NGET
 
-NGET’s RIIO-2 performance has been mixed. While load-related investment accelerated, with £160m moved from pipeline to plan, delivery in asset health and non-load-related programmes has lagged. Forecasts indicate achievement of only 72% of planned asset health volumes, reflecting ongoing access, supply chain, and resourcing constraints. Overall, NGET continues to deliver strong system value but faces elevated execution and delivery risk.
+NGET’s RIIO-ET2 performance has been mixed. While load-related investment accelerated, with £160m moved from pipeline to plan, delivery in asset health and non-load-related programmes has lagged. Forecasts indicate achievement of only 72% of planned asset health volumes, reflecting ongoing access, supply chain, and resourcing constraints. Overall, NGET continues to deliver strong system value but faces elevated execution and delivery risk.
 
 ### SHET
 
@@ -84,4 +84,4 @@ SHET has delivered major strategic outputs, including the Shetland HVDC link, an
 
 ### SPT
 
-SPT has recovered from early RIIO-2 delivery challenges, supported by improved portfolio oversight and contractor management. It performs well in customer satisfaction and reliability but is forecast to under-deliver against its BNRO by 17.6%, mainly due to delays on the Glenlee–Tongland. SPT expects a £140m underspend, driven by efficiency gains and changes to strategic investment. Overall, SPT remains the most balanced performer, with moderate delivery risk and stable operational control.
+SPT has recovered from early RIIO-ET2 delivery challenges, supported by improved portfolio oversight and contractor management. It performs well in customer satisfaction and reliability but is forecast to under-deliver against its baseline network risk output by 17.6%, mainly due to delays on the Glenlee–Tongland. SPT expects a £140m underspend, driven by efficiency gains and changes to strategic investment. Overall, SPT remains the most balanced performer, with moderate delivery risk and stable operational control.
