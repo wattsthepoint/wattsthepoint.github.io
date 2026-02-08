@@ -1,5 +1,5 @@
 ---
-title:  "2024/25 electricity Transmission Operator performance in Great Britain"
+title:  "2024/25 electricity transmission owner performance in Great Britain"
 date:   2026-02-08 02:00:24 +0000
 categories: [Power networks, Transmission]
 tags: [ofgem]     # TAG names should always be lowercase
