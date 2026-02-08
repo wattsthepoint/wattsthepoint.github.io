@@ -9,7 +9,7 @@ Transmission owners (TOs) are the licensed companies responsible for building, o
 
 This article summarises some of the key data from [Ofgem's 2024/25 performance report](https://www.ofgem.gov.uk/transparency-document/riio-2-electricity-transmission-annual-report-2024-2025) on all three TOs, comparing this with the previous three years. It is worth noting that NGET manages a significantly larger network than SPT and SHET, meaning that not all performance points can be directly compared. 
 
-## How are transmission operators penalised and rewarded?
+## How are transmission owners penalised and rewarded?
 
 RIIO-ET2 is built around financial incentives designed to reward TOs for good performance and penalise poor performance. The primary incentives and performance measures for the TOs are elaborated on in the sections which follow.
 
