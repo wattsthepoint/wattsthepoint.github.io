@@ -83,7 +83,7 @@ _Figure 3. [Underground warning signs](https://unsplash.com/photos/a-sign-that-i
 
 ## Traction substations and conversion
 
-Traction substations convert medium-voltage AC into DC for train operation. They are generally spaced at intervals of one to two kilometres and contain step-down transformers, rectifier units, DC switchgear, and protection equipment. Output voltage is regulated to maintain approximately 630 V under varying load conditions.
+Traction substations convert medium-voltage AC into DC for train operation. They are generally spaced at intervals of multiple kilometres and contain step-down transformers, rectifier units, DC switchgear, and protection equipment. Output voltage is regulated to maintain approximately 630 V under varying load conditions.
 
 Early conversion systems relied on rotary converters and motor-generator sets. Although effective, these machines were bulky, inefficient, and maintenance-intensive. From the 1930s, mercury arc rectifiers offered improved performance but introduced environmental and safety challenges.
 
