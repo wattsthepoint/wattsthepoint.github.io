@@ -21,7 +21,7 @@ The City & South London Railway, constructed from 1886 and opened in 1890, was t
 
 Lots Road Power Station in Chelsea was commissioned in 1905 to supply the District Line and later much of the wider network. Its original installation consisted of eight 5.5 MW Westinghouse turbo-alternators operating at 11 kV and 33.5 Hz, supported by coal-fired boilers.
 
-Over time, the station underwent extensive modernisation. Early equipment was replaced by larger Parsons generators, and capacity was progressively increased. By the early 1930s, installed capacity exceededs exceeded 100 MW. Later conversions included oil firing and, in the 1970s, natural gas operation. As grid electricity became cheaper and more reliable, Lots Road was relegated to standby service and finally closed in 2001.
+Over time, the station underwent extensive modernisation. Early equipment was replaced by larger Parsons generators, and capacity was progressively increased. By the early 1930s, installed capacity exceeded 100 MW. Later conversions included oil firing and, in the 1970s, natural gas operation. As grid electricity became cheaper and more reliable, Lots Road was relegated to standby service and finally closed in 2001.
 
 ![gps](/assets/images/lotsroad.jpg)
 _Figure 1. [Lots Road Power Station](https://commons.wikimedia.org/wiki/File:Lots.road.power.station.london.arp.jpg)._
@@ -41,7 +41,7 @@ Neasden was the smallest of the early Underground power stations. Commissioned i
 
 ## Present-day power supply architecture
 
-Today, London Underground draws electricity from the National Grid at eight bulk supply points, typically at 22 or 33 kV. Power is distributed through a dedicated network comprising around 270 substations across approximately 250 miles of track.
+Today, the London Underground draws electricity from the National Grid at eight bulk supply points, typically at 22 or 33 kV. Power is distributed through a dedicated network comprising around 270 substations across approximately 250 miles of track.
 
 This infrastructure includes high-voltage cables, transformers, circuit breakers, battery systems, frequency changers, and communication equipment. Together, these assets form a highly resilient network capable of supporting dense urban operations.
 
@@ -112,25 +112,24 @@ Table 2. Parameters associated with the London Underground's rolling stock.
   </tr>
   <tr>
     <td>Motor type</td>
-    <td>AC induction or PMSM</td>
+    <td>AC induction or permanent magnet synchronous machines</td>
   </tr>
 </table>
 
 ### Traction drive architecture
 
-Each train includes input protection and filtering, a DC link, VVVF inverters, traction motors, and auxiliary converters. The inverter converts the DC supply into variable-frequency AC, enabling precise control of speed and torque.
+Each train includes input protection and filtering, a DC link, variable frequency variable voltage inverters, traction motors, and auxiliary converters. The inverter converts the DC supply into variable-frequency AC, enabling precise control of speed and torque.
 
 ## Regenerative braking
 
-During braking, traction motors operate as generators, converting kinetic energy into electrical energy. This energy is returned to the DC supply and can be absorbed by nearby accelerating trains or station loads. In some locations, wayside energy storage systems are used to capture excess energy.
+During braking, traction motors operate as generators, converting kinetic energy into electrical energy. This energy is returned to the DC supply and can be absorbed by nearby accelerating trains or station loads. 
 
-When no receptive load is available, surplus energy is dissipated in onboard resistors. Regenerative braking typically reduces overall energy consumption by 15–25% while also lowering tunnel heat levels.
+TfL estimates that regenerative braking recovers [26% of traction demand](https://tfl.gov.uk/corporate/transparency/freedom-of-information/foi-request-detail?referenceId=FOI-3010-2223) (130 GWh per year) while also lowering tunnel heat levels.
 
 
 ## Resilience
 
-Given the scale of operations, reliability is a fundamental design requirement. The network employs multiple grid supply points, ring-fed distribution systems, parallel substations, automatic load transfer schemes, and standby transformers. These measures enable most faults to be managed without major service disruption.
-ation programmes focus on improving energy efficiency, resilience, and sustainability. Key initiatives include upgraded substations, expanded energy storage, wider adoption of permanent magnet motors, smart grid integration, and increased use of low-carbon electricity. The new Piccadilly Line fleet and associated power upgrades form a central part of this strategy.
+Given the scale of operations, reliability is a fundamental design requirement. The network employs multiple grid supply points, ring-fed distribution systems, parallel substations, automatic load transfer schemes, and standby transformers. These measures enable most faults to be managed without major service disruption. Innovation programmes focus on improving energy efficiency, resilience, and sustainability. Key initiatives include upgraded substations, expanded energy storage, wider adoption of permanent magnet motors, smart grid integration, and increased use of low-carbon electricity. 
 
 ## Conclusion
 
