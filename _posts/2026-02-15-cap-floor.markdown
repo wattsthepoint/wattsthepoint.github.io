@@ -1,6 +1,6 @@
 ---
 title:  "How British energy storage and interconnectors are paid"
-date:   2026-02-14 02:00:24 +0000
+date:   2026-02-15 02:00:24 +0000
 categories: [Domestic energy, Electricity]
 tags: [energy]     # TAG names should always be lowercase
 ---
