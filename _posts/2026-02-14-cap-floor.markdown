@@ -1,0 +1,159 @@
+---
+title:  "How British energy storage and interconnectors are paid"
+date:   2026-02-14 02:00:24 +0000
+categories: [Domestic energy, Electricity]
+tags: [energy]     # TAG names should always be lowercase
+---
+
+Both interconnectors and energy storage devices are somewhat unique in that they can operate both as demand and generation. The way they work is tied to the generation available: in times when intermittent renewable generation is high and electricity prices are low, they charge or export power to Europe, and vice versa.
+
+These pieces of infrastructure can be extremely expensive, but there is no guarantee that they will earn revenue throughout their designed lifespan, as the systems they are tied to may change dramatically. As such, a regulated mechanism, overseen by **:contentReference[oaicite:0]{index=0}**, known as the cap and floor scheme, ensures that operators earn a minimum level of revenue (the floor) while returning excessive profits to consumers (the cap).
+
+---
+
+## Why support mechanisms are needed
+
+Energy storage and interconnectors are capital-intensive assets, often requiring billions of pounds in upfront investment. Their revenues depend heavily on:
+
+- Wholesale price volatility  
+- Availability of renewable generation  
+- Cross-border market conditions  
+- Policy and regulatory changes  
+
+As the UK power system decarbonises, price patterns are becoming more unpredictable. High wind or solar output can suppress prices for long periods, while low renewable output can lead to sharp price spikes.
+
+Without regulatory protection, investors would face significant uncertainty. This could discourage private investment, slowing the development of infrastructure that is critical for system reliability and decarbonisation.
+
+The cap and floor mechanism is therefore designed to balance:
+
+- Investor confidence  
+- Consumer protection  
+- System resilience  
+
+---
+
+## How the cap and floor mechanism works
+
+Under the cap and floor regime, project revenues are bounded within a predefined range over an assessment period, usually up to 25 years.
+
+### The floor (minimum revenue)
+
+If a project’s annual revenue falls below a predetermined threshold, consumers top up the difference through network charges. The operator is protected against prolonged underperformance.
+
+This ensures that even in unfavourable market conditions, viable projects remain financially sustainable.
+
+### The cap (maximum revenue)
+
+If revenues exceed an upper threshold, excess profits are partially returned to consumers. Operators still retain some upside incentive.
+
+This prevents monopoly-like profits while maintaining incentives for efficient operation.
+
+## Who is eligible?
+
+Not every device is eligible for the cap and floor mechanism. Ofgem carries out a rigorous assessment to determine whether projects provide sufficient system value. The requirements for long-duration energy storage were added in [2025](https://www.ofgem.gov.uk/sites/default/files/2025-03/Long%20Duration%20Electricity%20Storage%20Technical%20Decision%20Document.pdf), and are based on the requirements set for interconnectors. They [consist of](https://www.ofgem.gov.uk/decision/long-duration-electricity-storage-technical-document):
+
+- Submission of optioneering, design, and feasibility studies  
+- Grid connection: proof of application required  
+- Planning consent: approval required prior to assessment  
+- Power output:  
+  - 100 MW (Stream 1)  
+  - 50 MW (Stream 2)  
+- Storage capacity:  
+  - Minimum of 8 hours at full load  
+  - Capability maintained over a 25-year lifespan  
+
+Stream 1 technologies must demonstrate Technology Readiness Level (TRL) 9, while Stream 2 projects must meet TRL 8.
+
+---
+
+## Revenue streams outside the cap and floor
+
+Although the cap and floor regulates overall returns, operators still participate in multiple markets.
+
+### Wholesale market arbitrage
+
+- Buying electricity during low-price periods  
+- Selling during high-price periods  
+
+### Balancing mechanism
+
+- Providing rapid response services to stabilise frequency and supply-demand balance
+
+### Ancillary services
+
+- Frequency response  
+- Reserve services  
+- Voltage support  
+
+### Capacity market (where applicable)
+
+- Payments for guaranteed availability during system stress events
+
+These revenue streams determine whether projects operate closer to the cap or the floor.
+
+---
+
+## Interconnectors versus energy storage
+
+While governed by similar principles, interconnectors and storage play different system roles.
+
+### Interconnectors
+
+Interconnectors primarily:
+
+- Enable cross-border electricity trading  
+- Improve security of supply  
+- Reduce price volatility  
+- Support renewable integration  
+
+Their revenues depend strongly on price differences between markets. They play a particularly strong role in islands such as Great Britain when compared to solidly interconnected grids such as those in Europe.
+
+### Energy storage
+
+Long-duration storage primarily:
+
+- Shifts renewable energy across time  
+- Reduces curtailment  
+- Provides fast frequency response  
+- Supports capacity adequacy  
+
+Storage revenues depend more on intra-day price spreads and system services.
+
+---
+
+## Risks and challenges
+
+Despite regulatory support, several risks remain:
+
+- Market evolution  
+  Increasing renewable penetration may flatten price spreads.
+
+- Technological obsolescence  
+  New storage technologies may outperform existing assets.
+
+- Operational degradation  
+  Storage performance can decline over time, requiring costly maintenance or upgrades.
+
+These risks are considered when setting cap and floor levels, but cannot be fully eliminated.
+
+---
+
+## Impact on consumers
+
+From a consumer perspective, the cap and floor scheme aims to:
+
+- Reduce long-term system costs  
+- Improve security of supply  
+- Limit exposure to extreme market conditions  
+
+In the short term, consumers may contribute to floor payments. However, in periods of high profitability, cap payments offset these costs.
+
+Over the lifetime of projects, the intention is that net consumer benefit remains positive.
+
+---
+
+## Conclusion
+
+The cap and floor mechanism represents a compromise between free-market operation and regulated infrastructure investment. By limiting downside risk while controlling excessive profits, it enables the deployment of large-scale energy storage and interconnectors that are essential for a low-carbon power system.
+
+As renewable penetration increases and market dynamics become more complex, this framework will play a central role in shaping how Britain finances and operates its future energy infrastructure.
