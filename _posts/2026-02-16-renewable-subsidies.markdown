@@ -39,6 +39,9 @@ Offered by: Ofgem
 
 ## Feed-in Tariff (FiT)
 Active years: 2010–2019 (closed to new applicants; existing projects remain supported)
+
 Purpose: The FiT aimed to support small-scale renewable resources. Unlike the SEG, energy suppliers paid an agreed rate for each unit of electricity generated, whether used locally or exported to the grid. Payments were made for between 10 and 25 years, depending on technology type.
+
 Size: Less than 5 MW, excluding micro-CHP, which was limited to 2 kW
+
 Offered by: Mandatory for suppliers with more than 250,000 customers; optional for smaller suppliers
