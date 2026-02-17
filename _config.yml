@@ -61,7 +61,7 @@ analytics:
   google:
     id: G-EQLHREQ51Q # fill in your Google Analytics ID
   goatcounter:
-    id: # fill in your GoatCounter ID
+    id: wattsthepoint # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
