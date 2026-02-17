@@ -14,7 +14,8 @@ _Figure 1. UK local authority collected Waste in 2022 by disposal method._
 
 The amount of waste incinerated [nearly tripled](https://commonslibrary.parliament.uk/research-briefings/cbp-10229/) between 2010 and 2020. The growing prominence of incineration has sparked serious debate among policymakers, researchers, and the general public. Central to this debate is whether incineration supports or undermines higher-priority waste management strategies, such as waste prevention and recycling. This well-known hierarchy is depicted in Figure 2.
 
-![Waste breakdown figure](/assets/images/wastehierarchy.svg)
+![Waste breakdown figure](/assets/images/Waste_hierarchy.png)
+)
 _Figure 2. [Waste hierarchy pyramid](https://commons.wikimedia.org/wiki/Category:Waste_hierarchy#/media/File:Waste_hierarchy.svg)._
 
 This article examines the current role of incineration within the national waste system and evaluates its implications for environmental sustainability and public policy.
