@@ -1,0 +1,67 @@
+---
+title:  "Energy from waste in the UK: A necessary solution or a long-term problem?"
+date:   2026-02-17 02:00:24 +0000
+categories: [Energy, Energy from Waste]
+tags: [energy from waste]     # TAG names should always be lowercase
+---
+
+Over recent decades, the United Kingdom (UK) has sought to reduce its reliance on landfill through the use of alternative waste treatment technologies. The Government explicitly pushed [the landfill tax](https://commonslibrary.parliament.uk/research-briefings/sn00237/) in 1996 to drive towards a more environmentally friendly waste disposal solution. Incineration, especially Energy from Waste (EfW), has expanded significantly as a means of managing residual waste. This process heats waste to [over 800°C](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/waste-incineration) and recovers energy in the form of heat or electricity. 
+
+Places such as the UK produce large volumes of waste; in 2022, [UK Government data](https://www.gov.uk/government/statistics/uk-waste-data/uk-statistics-on-waste) indicates that 191.4 million tonnes (Mt) of waste was generated. Of this, 26.12 Mt was [collected by local authorities](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables), of which then 41.5% was recycled, 8% was sent to landfills, and 47.4% was incinerated. This is illustrated by Figure 1.
+
+![Waste breakdown figure](/assets/images/localwaste.svg)
+_Figure 1. UK local authority collected Waste in 2022 by disposal method._
+
+The amount of waste incinerated [nearly tripled](https://commonslibrary.parliament.uk/research-briefings/cbp-10229/) between 2010 and 2020. The growing prominence of incineration has sparked serious debate among policymakers, researchers, and the general public. Central to this debate is whether incineration supports or undermines higher-priority waste management strategies, such as waste prevention and recycling. This well-known hierarchy is depicted in Figure 2.
+
+![Waste breakdown figure](/assets/images/wastehierarchy.svg)
+_Figure 2. [Waste hierarchy pyramid](https://commons.wikimedia.org/wiki/Category:Waste_hierarchy#/media/File:Waste_hierarchy.svg)._
+
+This article examines the current role of incineration within the national waste system and evaluates its implications for environmental sustainability and public policy.
+
+## Policy and requirement for incineration
+
+Waste management in the UK is guided primarily by national policies shaped by international environmental commitments, with the current stance emphasising the [reduction of landfill use](https://www.gov.uk/government/consultations/consultation-on-reform-of-landfill-tax/outcome/consultation-on-reform-of-landfill-tax-in-england-and-northern-ireland-summary-of-responses), [higher recycling targets](https://www.gov.uk/government/publications/simpler-recycling-in-england-policy-update/simpler-recycling-in-england-policy-update), the [expansion of energy-from-waste capacity](https://www.bbc.co.uk/news/articles/c70xyr4l4ngo), and the [expansion of carbon pricing mechanisms](https://www.gov.uk/government/case-studies/science-supporting-cleaner-waste-incineration). Together, these measures aim to integrate waste management more closely with broader climate and resource-efficiency objectives.
+
+### Landfill diversion
+
+One of the principal justifications for incineration is its capacity to divert waste from landfills. Landfill sites [generate gases](https://www.sciencedirect.com/science/article/pii/S2215016122002485) such as methane (40-50%) and carbon dioxide (50-60%), which is due to anaerobic decomposition catalysed by the microbes present in the land. Methane is [25 times more potent](https://ghgprotocol.org/sites/default/files/Global-Warming-Potential-Values%20%28Feb%2016%202016%29_1.pdf) as a greenhouse gas than carbon dioxide. Landfills require long-term management and contribute to [4% of the UK's greenhouse gas] inventory(https://assets.publishing.service.gov.uk/media/5a80d7e6e5274a2e8ab527a7/ACUMEN_Laymans_report_with_translation_Final.pdf). Incineration can [reduce waste volume by up to 90%](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/waste-incineration), thereby limiting land use pressures. In 2021, [engineering consultancy Fichtner](https://researchbriefings.files.parliament.uk/documents/CBP-10229/CBP-10229.pdf) estimated that EfW saves around 200 kg of carbon dioxide equivalent emissions per tonne of waste when compared with landfill (being 230.9 and 432.7 kg respectively). The reality is that these values will vary with waste stream composition, making the figures challenging to verify universally. Landfills destroy natural habitats and produce [landfill leachate](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/landfill-leachate), which is highly toxic to fauna.
+
+### Energy recovery
+
+EfW facilities convert residual waste into electricity and, in some cases, heat. Proponents argue that this contributes to energy security and partially offsets fossil fuel use. Incineration that only recovers electricity can expect [efficiencies of 27%](https://researchbriefings.files.parliament.uk/documents/CDP-2020-0029/CDP-2020-0029.pdf), and recovering heat can increase this further.
+
+## Greenhouse gas emissions
+
+Although regulated as industrial installations, incinerators emit significant quantities of carbon dioxide, particularly from fossil-derived materials such as plastics. The waste feedstock makeup directly impacts the output emissions. An [investigation by the BBC](https://www.bbc.co.uk/news/articles/cp3wxgje5pwo) found that the average equivalent carbon dioxide emissions per kilowatt-hour for UK incinerators were 720g, which is only 10g less than coal and 1.8 times more than gas. Incineration accounts for [3.1%](https://www.bbc.co.uk/news/articles/cp3wxgje5pwo) of the UK's power generation, meaning that the high intensity of carbon emissions is offset by its minor contribution to the generation mix.
+
+## Other air pollution
+
+Modern incinerators employ advanced filtration systems to control emissions of particulates, nitrogen oxides, and heavy metals.  In addition, bottom ash and fly ash require careful management, with some residues being hazardous waste and disposed of as such. Generally, due to the strict controls in place, incineration plants pose [lower risks to human health](https://iopscience.iop.org/article/10.1088/1748-9326/abae9f) when compared with other prevailing waste management techniques. From a material perspective, incineration represents the irreversible loss of potentially recoverable resources. Recycling and re-use is limited to collecting metals from ash.
+
+A study by [Imperial College London](https://www.imperial.ac.uk/school-public-health/epidemiology-and-biostatistics/small-area-health-statistics-unit/our-research/previous-research-projects/incinerators-study/faq/) looked for a link between infant and reproductive complications when in proximity to incinerators. A 2% increased risk for all congenital anomalies and up to 7% increased risk for genital anomalies was observed for individuals in proximity to incinerators, though these may be due to other factors (for example, higher levels of deprivation). 
+
+The [Environment Agency](https://www.gov.uk/government/publications/pollution-inventory-reporting-guidance-notes/incineration-activities-pollution-inventory-reporting) strictly monitors waste incinerators' emissions output to ensure that compliance with environmental permits is maintained.
+
+## Capital investment 
+
+EfW plants require substantial upfront investment; typical capital expenditure is circa [£5 million per megawatt of installed capacity](https://www.nlwa.gov.uk/sites/default/files/inline-files/NLWA%20%28out%29%2016.12.21%20%28005%29_Appx05.pdf). Long-term contracts are required to de-risk these investments, which can create “lock-in” effects, whereby authorities are incentivised to maintain waste flows to ensure financial viability. Such dynamics may conflict with waste reduction strategies.
+
+## Operational costs
+
+Incineration can be more expensive than landfill in the short term, particularly when transport and gate fees are considered. However, landfill taxes ([£130.75 per tonne in 2026](https://www.gov.uk/government/publications/landfill-tax-rates-for-2026-to-2027/landfill-tax-increase-in-rates-from-1-april-2026)) and regulatory constraints have made EfW comparatively attractive. Future carbon pricing may alter these cost relationships.
+
+## Market volatility
+
+[Media](https://www.bbc.co.uk/news/articles/cze8wg067llo) and [activist groups](https://ukwin.org.uk/overcapacity/) have raised concerns regarding potential overcapacity in some regions. If residual waste volumes decline, facilities may compete for feedstock, possibly encouraging the diversion of recyclable materials to incineration. Increasing incineration of waste raises concerns regarding the UK's net-zero commitments.
+
+## Social factors
+
+Public opposition to incinerator projects remains strong in many communities, with concerns commonly focusing on visual and landscape impacts, increased traffic and noise, perceived health risks, and a lack of trust in regulatory oversight. As a result, planning processes must carefully balance national waste management strategies with local democratic accountability and principles of a just transition.
+
+## Summary
+
+Waste incineration currently occupies a central role in the UK’s residual waste management strategy. Its advantages in landfill diversion and energy recovery are balanced by environmental, economic, and systemic drawbacks.
+
+While incineration may remain necessary in the short term, its expansion should be carefully constrained. Future policy should prioritise waste prevention, recycling, and material circularity, ensuring that incineration does not impede progress toward long-term decarbonisation, as underpinned by key environmental principles.
+
