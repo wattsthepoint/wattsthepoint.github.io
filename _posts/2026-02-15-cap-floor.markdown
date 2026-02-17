@@ -1,11 +1,11 @@
 ---
-title:  "How British energy storage and interconnectors are paid"
+title:  "What is the cap and floor mechanism"
 date:   2026-02-15 02:00:24 +0000
 categories: [Domestic energy, Electricity]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
-Both interconnectors and energy storage devices are somewhat unique in that they can operate both as demand and generation. The way they work is tied to the generation available: in times when intermittent renewable generation is high and electricity prices are low, they charge or export power to Europe, and vice versa.
+There is an increasing number of high voltage direct current interconnectors and energy storage systems in Great Britain. Both interconnectors and energy storage devices are somewhat unique in that they can operate both as demand and generation. The way they work is tied to the generation available: in times when intermittent renewable generation is high and electricity prices are low, they charge or export power to Europe, and vice versa.
 
 These pieces of infrastructure can be extremely expensive, but there is no guarantee that they will earn revenue throughout their designed lifespan, as the systems they are tied to may change dramatically. As such, a regulated mechanism, overseen by Ofgem, known as the cap and floor scheme, ensures that operators earn a minimum level of revenue (the floor) while returning excessive profits to consumers (the cap).
 
