@@ -59,6 +59,10 @@ Incineration can be more expensive than landfill in the short term, particularly
 
 Public opposition to incinerator projects remains strong in many communities, with concerns commonly focusing on visual and landscape impacts, increased traffic and noise, perceived health risks, and a lack of trust in regulatory oversight. As a result, planning processes must carefully balance national waste management strategies with local democratic accountability and principles of a just transition.
 
+## Alternatives to incineration
+
+Organic waste is the [most harmful waste](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=Municipal%20solid%20waste%20(MSW)%20landfills,options%20for%20managing%20organic%20waste.) to be sent to landfill in terms of greenhouse gas emissions. Anaerobic digestion offers a lower-carbon alternative for managing biodegradable waste. Through controlled biological processes, food waste is broken down in oxygen-free conditions to produce biogas, which can be used for electricity generation, heat production, or upgraded to biomethane for injection into the gas grid. The remaining digestate can be applied as a fertiliser, supporting nutrient recycling and reducing dependence on synthetic inputs. Compared with incineration, anaerobic digestion retains higher material value by recovering both energy and nutrients, aligning more closely with the waste hierarchy. It is limited based on the quality of input material, although [DEFRA](https://www.gov.uk/government/news/new-295m-for-councils-to-introduce-weekly-food-waste-collections) have increased council funding to support this technology through dedicated household food waste collections.
+
 ## Summary
 
 Waste incineration currently occupies a central role in the UK’s residual waste management strategy. Its advantages in landfill diversion and energy recovery are balanced by environmental, economic, and systemic drawbacks.
