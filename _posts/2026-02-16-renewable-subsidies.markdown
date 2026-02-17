@@ -32,7 +32,7 @@ Allocation rounds are held to award contracts. During these rounds, providers su
 ## Renewable Energy Guarantee of Origin (REGO)
 **Active years:** 2003–present
 
-**Purpose:** Purchased by energy suppliers from renewable generators to demonstrate that an equivalent amount of electricity has been generated from renewable sources. REGOs certify renewable generation and can be traded separately from physical electricity.
+**Purpose:** Purchased by energy suppliers from renewable generators to demonstrate that an equivalent amount of electricity has been generated from renewable sources. REGOs certify renewable generation, allowing suppliers to claim a tariff is 100% renewable, for example. They are also used for reporting under the [Fuel Mix Disclosure](how-sustainable-is-your-electricity-supplier).
 
 **Offered by:** Ofgem
 
