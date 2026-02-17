@@ -1,5 +1,5 @@
 ---
-title:  "What is the cap and floor mechanism"
+title:  "What is the cap and floor mechanism?"
 date:   2026-02-15 02:00:24 +0000
 categories: [Domestic energy, Electricity]
 tags: [energy]     # TAG names should always be lowercase
