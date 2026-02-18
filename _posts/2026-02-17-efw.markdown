@@ -2,7 +2,7 @@
 title:  "Energy from Waste in the UK: A necessary solution or a long-term problem?"
 date:   2026-02-17 02:00:24 +0000
 categories: [Energy, Energy from Waste]
-tags: [energy from waste]     # TAG names should always be lowercase
+tags: [energy from waste]     # TAG names should always be lowercas
 ---
 
 Over recent decades, the United Kingdom (UK) has sought to reduce its reliance on landfill through the use of alternative waste treatment technologies. The Government explicitly pushed [the landfill tax](https://commonslibrary.parliament.uk/research-briefings/sn00237/) in 1996 to drive towards a more environmentally friendly waste disposal solution. Incineration, especially Energy from Waste (EfW), has expanded significantly as a means of managing residual waste. This process heats waste to [over 800°C](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/waste-incineration) and recovers energy in the form of heat or electricity. 
