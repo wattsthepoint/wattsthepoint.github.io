@@ -10,7 +10,7 @@ Over recent decades, the United Kingdom (UK) has sought to reduce its reliance o
 Places such as the UK produce large volumes of waste; in 2022, [UK Government data](https://www.gov.uk/government/statistics/uk-waste-data/uk-statistics-on-waste) indicates that 191.4 million tonnes (Mt) of waste was generated. Of this, 26.12 Mt was [collected by local authorities](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables), of which then 41.5% was recycled, 8% was sent to landfills, and 47.4% was incinerated. This is illustrated by Figure 1.
 
 ![Waste breakdown figure](/assets/images/householdwaste2.svg)
-_Figure 1. [UK local authority collected waste in 2022 by disposal method](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)._
+_Figure 1. [UK local authority collected waste in 2022 by disposal method in Mt](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)._
 
 The amount of waste incinerated [nearly tripled](https://commonslibrary.parliament.uk/research-briefings/cbp-10229/) between 2010 and 2020. The growing prominence of incineration has sparked serious debate among policymakers, researchers, and the general public. Central to this debate is whether incineration supports or undermines higher-priority waste management strategies, such as waste prevention and recycling. This well-known hierarchy is depicted in Figure 2.
 
