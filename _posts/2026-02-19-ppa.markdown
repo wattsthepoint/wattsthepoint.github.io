@@ -1,0 +1,49 @@
+---
+title:  "What is a Power Purchase Agreement (PPA)?"
+date:   2026-02-19 02:00:24 +0000
+categories: [Power system economics, Power Purchase Agreements]
+tags: [power purchase agreements]     # TAG names should always be lowercase
+---
+
+
+A Power Purchase Agreement (PPA) is a long-term contract between an electricity generator and a buyer (offtaker), under which the buyer agrees to purchase electricity at agreed pricing terms for a defined period.
+
+In Great Britain (GB), PPAs typically fall into two broad categories: indirect (sleeved) PPAs and direct (private wire) PPAs.
+
+PPAs are commonly used for:
+
+- Financing renewable generation  
+- Supporting corporate decarbonisation strategies  
+- Providing revenue stabilisation outside government support schemes  
+- Reducing exposure to wholesale electricity price volatility  
+- In some cases, reducing transmission, distribution, and policy-related costs  
+
+# Indirect wire (sleeved PPA)
+
+Under an indirect or sleeved PPA, a consumer, typically a large industrial or commercial organisation, contracts directly with a generator for the purchase of electricity. Physical delivery occurs through the public transmission and distribution networks rather than through a dedicated connection between the two parties.
+
+A licensed electricity supplier sits between the generator and the consumer to sleeve the arrangement. The supplier is responsible for metering, settlement, balancing and imbalance management, and for charging the consumer for network use and applicable policy levies. The supplier also transfers the agreed PPA revenues to the generator and charges a sleeving fee for providing these services.
+
+Because electricity flows through the standard grid infrastructure, transmission and distribution network charges remain applicable. The consumer may contract with an existing generator or support a new-build project, often referred to as additionality. The agreed PPA price typically reflects the generator’s production profile and may include [Renewable Energy Guarantees of Origin (REGOs)](https://wattsthepoint.github.io/posts/renewable-subsidies/).
+
+The key characteristics of an indirect wire PPA are:
+
+- Use of the public grid  
+- Requirement for a licensed supplier  
+- Continued exposure to network and policy charges  
+- Flexibility to contract with geographically distant generators  
+
+# Direct wire (private wire) PPA
+
+A direct or private wire PPA differs in that the generator is physically connected to the consumer’s site via a dedicated connection, bypassing the public transmission and distribution networks. Electricity is supplied behind the meter, meaning that no licensed supplier is required for the privately delivered volume.
+
+In this structure, transmission and distribution charges are avoided for electricity delivered through the private connection, and certain policy costs built into licensed supplier bills can be removed. The generator supplies some or all of the consumer’s demand locally, depending on generation availability and intermittency. When the private wired generation is insufficient, the consumer imports electricity from the grid either from a separate supply, or via the generator's grid connection.
+
+Private wire arrangements are generally feasible only where the generator and consumer are geographically close and where demand characteristics support local supply.
+
+The key characteristics of a direct wire PPA are:
+
+- Dedicated physical connection  
+- Supply behind the meter  
+- Avoidance of network charges for private volumes  
+- Geographic proximity requirements  
