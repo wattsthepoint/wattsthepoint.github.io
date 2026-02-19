@@ -1,7 +1,7 @@
 ---
 title:  "How marginal pricing affects electricity costs in Britain"
 date:   2026-02-14 02:00:24 +0000
-categories: [Domestic energy, Electricity]
+categories: [Power system economics, Marginal pricing]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
