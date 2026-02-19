@@ -1,7 +1,7 @@
 ---
 title:  "Renewable energy subsidies in Great Britain"
 date:   2026-02-16 02:00:24 +0000
-categories: [Domestic energy, Electricity]
+categories: [Power system economics, Renewable energy subsidies]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
