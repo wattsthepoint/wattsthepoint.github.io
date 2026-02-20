@@ -1,5 +1,5 @@
 ---
-title:  "What is the role of the UK Energy Trading Scheme in the power industry?"
+title:  "The role of the UK Energy Trading Scheme in the power industry"
 date:   2026-02-19 02:00:24 +0000
 categories: [Greenhouse gases, Energy Trading Scheme]
 tags: [energy trading scheme]     # TAG names should always be lowercase
