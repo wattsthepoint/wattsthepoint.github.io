@@ -19,4 +19,4 @@ The cost of emissions under this scheme is variable, and therefore, different me
 
 The UK ETS applies to any fossil fuel-based generation with combustion units that have a total thermal input of 20 MW or more. The scheme excludes plants involved with the incineration of hazardous or municipal waste. The effect of this is directly increasing the costs of non-renewable generation, thereby encouraging the shift to low-carbon generation. Free allowances do generally not apply to power generation.
 
-An example using Ratcliffe-on-Soar power station in 2023, whereby it generated 2.7 Mt of carbon dioxide emissions, would result in ETS costs of £135 million (assuming a £50/tonne cost).
+An example using Ratcliffe-on-Soar power station in 2023, whereby it generated 2.7 Mt of carbon dioxide emissions, would result in ETS costs of £135 million (assuming a £50 per tonne cost).
