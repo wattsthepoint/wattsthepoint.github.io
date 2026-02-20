@@ -1,0 +1,24 @@
+---
+title:  "What is the role of the UK Energy Trading Scheme in the power industry?"
+date:   2026-02-20 02:00:24 +0000
+categories: [Greenhouse gases, Energy Trading Scheme]
+tags: [energy trading scheme]     # TAG names should always be lowercase
+---
+
+Following the UK's exit from the European Union, the [UK Energy Trading Scheme (ETS)](https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview) was established in 2021 as the central mechanism to drive businesses toward a net-zero greenhouse gas emissions future by 2050. The system covers aviation, power and heavy industry, which account for around 25% of the UK's emissions. 
+
+# Cap and trade model
+
+The UK ETS works as a credit system, referred to as cap and trade, whereby a maximum allowance of emissions is set for all of the listed industries. This cap decreases with time to achieve net-zero greenhouse gas emissions in 2050. The businesses within the applicable industries are then required to get allowances through auctions, trade or (where eligible) from free allocations. Free allowances aim to disincentivise the movement of industries from the UK to other nations, known as carbon leakage, negating global decarbonisation efforts. 
+
+## Price volatility mitigations
+
+The cost of emissions under this scheme is variable, and therefore, different mechanisms are required to maintain market stability and minimise risk. Two ways the model does this is by enabling cost containment if costs rise too high, and setting auction reserve prices to prevent costs from dropping too low.
+
+# UK ETS in the power industry
+
+The UK ETS applies to any fossil fuel-based generation with combustion units that have a total thermal input of 20 MW or more. The scheme excludes plants involved with the incineration of hazardous or municipal waste. The effect of this is directly increasing the costs of non-renewable generation, thereby encouraging the shift to low-carbon generation. Free allowances do generally not apply to power generation.
+
+The current minimum auction price is set at [£22 per tonne of carbon dioxide, rising to £28 in 2026](https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets/taking-part-in-the-uk-emissions-trading-scheme-markets). Although the price fluctuates, a [typical cost is around £50 per tonne of carbon dioxide](https://www.nao.org.uk/wp-content/uploads/2025/06/uk-emissions-trading-scheme-summary.pdf). The scheme raised [an estimated £2.6 billion in 2024-25](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/emissions-trading-scheme-uk-ets/).
+
+An example using Ratcliffe-on-Soar power station in 2023, whereby it generated 2.7 Mt of carbon dioxide emissions, would result in ETS costs of £135 million (assuming a £50/tonne cost).
