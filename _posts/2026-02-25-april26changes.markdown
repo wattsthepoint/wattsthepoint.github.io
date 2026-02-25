@@ -5,7 +5,7 @@ categories: [Domestic energy, Price cap update]
 tags: [energy]     # TAG names should always be lowercase
 ---
 
-[Ofgem has announced that](https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-april-and-30-june-2026) energy bills will fall from 1 April to 30 June 2026 under the latest quarterly energy price cap update for households across England, Scotland and Wales.
+[Ofgem has announced](https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-april-and-30-june-2026) that energy bills will fall from 1 April to 30 June 2026 under the latest quarterly energy price cap update for households across England, Scotland and Wales.
 
 For a typical household that uses gas and electricity and pays by Direct Debit, bills will drop by £117, or 7%. Typical annual bills are expected to fall to £1,641. Compared with April to June 2025, that’s £208, or 11%, lower.
 
