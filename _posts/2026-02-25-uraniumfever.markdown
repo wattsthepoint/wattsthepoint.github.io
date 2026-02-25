@@ -13,7 +13,7 @@ Nuclear power generation at present utilises nuclear fission, whereby enriched u
 
 The heat produced generates steam, which drives a turbine connected to an alternator to produce electricity.
 
-# Safety 
+# Radiation safety and public exposure
 
 Under normal operating conditions, nuclear power stations release only very small, regulated amounts of radioactive material. The resulting radiation doses to the public are extremely low and typically negligible compared to natural background radiation. Background radiation originates from cosmic rays, naturally occurring radionuclides in soil and building materials, and even from food.
 
@@ -21,7 +21,7 @@ In the UK, nuclear energy, industrial and defence activities together account fo
 
 Although conventional chemical explosions (for example, hydrogen explosions) can occur at nuclear power stations under severe accident conditions, these are fundamentally different from nuclear weapon detonations. Civil nuclear fuel is typically enriched up to [5%](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors), whereas nuclear weapons require much higher enrichment levels and very specific configurations to produce an explosive chain reaction. Reactor fuel assemblies are not physically arranged or engineered in a way that would [permit a nuclear detonation](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors).
 
-# Radioactive waste
+# Radioactive waste and recycling
 
 High-level waste (HLW) is often the most discussed category of radioactive waste. While it represents a small fraction of the total waste volume, it contains [around 95% of the total radioactivity generated from nuclear power production](https://world-nuclear.org/nuclear-essentials/what-is-nuclear-waste-and-what-do-we-do-with-it). Some radionuclides within this waste have very long half-lives, meaning the material must be cooled, shielded, and isolated from the biosphere for extended periods. Deep geological disposal is widely considered the [preferred long-term management solution](https://world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-wastes/radioactive-waste-management.aspx).
 
@@ -29,7 +29,7 @@ Although this may appear to be a strong argument against nuclear power, up to [a
 
 A 1 GW nuclear power station produces [roughly 27 tonnes of spent nuclear fuel per year](https://world-nuclear.org/information-library/nuclear-fuel-cycle/introduction/nuclear-fuel-cycle-overview). Some studies have suggested that, under normal operation, fly ash from coal plants can expose [100 times more radiation into the surrounding environment](https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/) than an equivalent nuclear power plant.
 
-# Incidents
+# Major nuclear incidents
 
 Public perception of nuclear energy has been strongly shaped by several major accidents, most notably those at Chernobyl, Fukushima Daiichi, and Three Mile Island.
 
