@@ -1,6 +1,6 @@
 ---
 title:  "Domestic energy bills to fall in April 2026"
-date:   2026-02-25 02:00:24 +0000
+date:   2026-02-25 02:00:26 +0000
 categories: [Domestic energy, Price cap update]
 tags: [energy]     # TAG names should always be lowercase
 ---
