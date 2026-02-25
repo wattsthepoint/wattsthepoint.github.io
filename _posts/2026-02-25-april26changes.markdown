@@ -16,7 +16,7 @@ From April, households on standard variable (default) tariffs paying by Direct D
 * 24.67p per kWh for electricity, with a daily standing charge of 57.21p 
 * 5.74p per kWh for gas, with a daily standing charge of 29.09p 
 
-It is expected that there will be a drop in both standard and variable rate tariffs.
+It is expected that there will be a drop in both standard and variable rate tariffs. 
 
 # Why are prices changing?
 
@@ -25,6 +25,11 @@ Prices are changing due to the government shifting policy costs out of energy bi
 Global wholesale energy prices have fallen over the past three months, cutting around £38 from annual costs. However, not all costs are falling. Network costs are increasing by around £66 a year under the RIIO-3 price control framework, which focuses on investing in and upgrading the UK’s energy infrastructure to improve long-term reliability and stability.
 
 There is also a change to how the Warm Home Discount is recovered. From April 2026, these costs will move from the standing charge into the unit rate.
+
+For reference, Figure 1 displays the approximate energy bill cost composition based on the January 2026 price cap. Policy costs were associated with approximately 13.4% of the total costs, whereas wholesale energy was associated with 39.3%, and infrastructure accounted for 22.6%.
+
+![Energy bill cost pie](/assets/images/pieenergybills.png)
+_Figure 1. [Cost allocation of typical energy bill based on the January 2026 price cap](https://www.linkedin.com/posts/ofgem_ever-wondered-where-every-1-of-your-energy-activity-7397544539126800384-hTYU)._
 
 # The next price cap
 
