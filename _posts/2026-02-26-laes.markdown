@@ -23,7 +23,10 @@ LAES uses off-peak, low-cost, sustainable electricity to liquefy atmospheric air
 
 Components such as carbon dioxide, water vapour and hydrocarbons are [removed during the liquefaction process](https://www.tandfonline.com/doi/full/10.1080/00207233.2016.1189741) due to their higher solidification temperatures. This prevents blockages within the cryogenic system. Theoretically, this separation step could allow integration with direct-air carbon capture if coupled with a suitable storage solution, though this has not yet been demonstrated commercially.
 
-When electricity is required, the liquid air is pumped to high pressure, evaporated, and heated. The resulting high-pressure gas expands through a turbine, driving a synchronous generator to produce electricity.
+When electricity is required, the liquid air is pumped to high pressure, evaporated, and heated. The resulting high-pressure gas expands through a turbine, driving a synchronous generator to produce electricity. This process is summarised in Figure 1.
+
+![Cycle diagram](/assets/images/Cryogenicdiagram.png)
+_Figure 1. [Liquid air energy storage process diagram](https://commons.wikimedia.org/wiki/File:Cryogenic_Thermal_Storage_Diagram.png)._
 
 # Why LAES is different from existing storage
 
