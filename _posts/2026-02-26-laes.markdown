@@ -1,0 +1,38 @@
+---
+title:  "Liquid air energy storage: A scalable long-duration solution for a low-carbon Britain"
+date:   2026-02-26 02:00:24 +0000
+categories: [Energy, Liquid air energy storage]
+tags: [liquid air energy storage]     # TAG names should always be lowercase
+---
+
+As Great Britain accelerates its transition away from fossil fuels, policymakers and engineers are increasingly asking how to deliver large-scale, reliable, low-carbon electricity in a system dominated by weather-dependent generation such as wind and solar. Long-duration energy storage is emerging as a critical enabler of this transition.
+
+A potential solution pioneered by [Highview Power](https://highviewpower.com/), a London-based company, is liquid air energy storage (LAES). It offers an alternative to more mature and widely deployed storage technologies, such as pumped hydro and lithium-ion batteries.
+
+# Projects
+
+Currently, Highview's only [operational grid-scale LAES](https://highviewpower.com/news-announcements/world-first-liquid-air-energy-storage-plant/) is a 5 MW / 15 MWh plant in Bury, near Manchester.
+
+Their [first commercial-scale operation](https://highviewpower.com/projects/) is under construction in Carrington, Greater Manchester. Scheduled for completion in 2026, it will deliver 50 MW / 300 MWh of storage capacity.
+
+Beyond this, Highview [plans to ramp up significantly](https://highviewpower.com/projects/), with a targeted 2027 operating date for a 300 MW / 3.2 GWh plant in Hunterston, North Ayrshire. Further large-scale projects are expected to be eligible for Ofgem's [cap and floor mechanism](https://wattsthepoint.github.io/posts/cap-floor/), a regulatory framework designed to reduce revenue risk for long-duration energy storage assets.
+
+# How it works
+
+LAES uses off-peak, low-cost, sustainable electricity to liquefy atmospheric air, which is then stored in insulated tanks at cryogenic temperatures (around −194 °C).
+
+Components such as carbon dioxide, water vapour and hydrocarbons are [removed during the liquefaction process](https://www.tandfonline.com/doi/full/10.1080/00207233.2016.1189741) due to their higher solidification temperatures. This prevents blockages within the cryogenic system. Theoretically, this separation step could allow integration with direct-air carbon capture if coupled with a suitable storage solution, though this has not yet been demonstrated commercially.
+
+When electricity is required, the liquid air is pumped to high pressure, evaporated, and heated. The resulting high-pressure gas expands through a turbine, driving a synchronous generator to produce electricity.
+
+# Why LAES is different from existing storage
+
+LAES presents several distinctive advantages:
+
+* **Long-duration capability.** Suitable for storage from hours to multiple days due to its very low self-discharge rate ([of as little as 0.05% per day](https://www.sciencedirect.com/science/article/abs/pii/S0306261914008009)).
+* **Comparable efficiency to pumped hydro.** Round-trip efficiencies of [around 60%](https://www.sciencedirect.com/science/article/abs/pii/S0306261914008009) have been reported, particularly when waste heat and cold recovery are integrated.
+* **No geographical constraints.** Unlike pumped hydro, LAES does not require mountainous terrain or large water reservoirs.
+* **Scalable and modular.** Plants can be configured according to system requirements.
+* **Mature engineering components.** Uses established cryogenic and turbomachinery technologies rather than electrochemical materials such as lithium.
+* **Synchronous grid coupling.** The turbine-generator system provides rotational inertia and variable reactive power support.
+* **No electrochemical cycling degradation.** Performance does not degrade in the same way as lithium-ion batteries over repeated cycles.
