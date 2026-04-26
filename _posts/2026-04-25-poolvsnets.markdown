@@ -1,6 +1,6 @@
 ---
 title: "The history of electricity market reforms"
-date: 2026-04-26 12:00:24 +0000
+date: 2026-04-25 12:00:24 +0000
 categories: [Power system economics, Energy trading]
 tags: [energy trading]     # TAG names should always be lowercas
 ---
