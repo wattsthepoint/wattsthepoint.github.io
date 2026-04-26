@@ -8,6 +8,9 @@ tags: [energy trading]     # TAG names should always be lowercas
 The method with which energy is traded in Great Britain is complicated, with multiple parties each trying to achieve sometimes conflicting objectives. For example, suppliers may be attempting to achieve the lowest tariff for their customers, whereas the National Energy System Operator (NESO), formerly the National Grid Company, is tasked with maintaining a secure system, which may not involve selecting the least expensive generation options. This reflects a fundamental tension in electricity market design between cost efficiency and system security. Since the privatisation of the electricity industry in the 1990s, [there have been multiple reforms
  relating to the way in which electricity is traded](https://www.sciencedirect.com/science/article/pii/S1364032122002313) in an attempt to curtail rising energy prices. This article explains how trading shifted from the pooling process to the New Electricity Trading Arrangements (NETA).
 
+ ![HEYS PS](/assets/images/heys1.jpg)
+_Figure 1. Heysham 1 Power Station._
+
 ## The Pool
 
 The initial mechanism used for energy supply was termed the Pool, and it operated from 1990 until market reform in 2001 in England and Wales. The Pool was a mandatory wholesale market whereby monodirectional transactions took place; generators sold energy to the Pool, and suppliers bought energy from the Pool to provide for their customers. Generators submitted offer data for the following day, which was matched with demand forecasts and, utilising a merit order, generators were selected until demand was met (from least to most expensive). This list of generators was termed the unconstrained schedule, with the most expensive generator setting the system marginal price. All generators were then paid this system marginal price, with a capacity element added for uncertainty.
