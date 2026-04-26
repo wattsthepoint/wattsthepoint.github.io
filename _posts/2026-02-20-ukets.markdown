@@ -1,11 +1,11 @@
 ---
-title:  "The role of the UK Energy Trading Scheme in the power industry"
+title:  "The role of the UK Emissions Trading Scheme in the power industry"
 date:   2026-02-19 02:00:24 +0000
-categories: [Greenhouse gases, Energy Trading Scheme]
-tags: [energy trading scheme]     # TAG names should always be lowercase
+categories: [Greenhouse gases, Emissions Trading Scheme]
+tags: [emissions trading scheme]     # TAG names should always be lowercase
 ---
 
-Following the UK's exit from the European Union, the [UK Energy Trading Scheme (ETS)](https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview) was established in 2021 as the central mechanism to drive businesses toward a net-zero greenhouse gas emissions future by 2050. The system covers aviation, power and heavy industry, which account for around 25% of the UK's emissions. The scheme raised [an estimated £2.6 billion in 2024-25](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/emissions-trading-scheme-uk-ets/).
+Following the UK's exit from the European Union, the [UK Emissions Trading Scheme (ETS)](https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview) was established in 2021 as the central mechanism to drive businesses toward a net-zero greenhouse gas emissions future by 2050. The system covers aviation, power and heavy industry, which account for around 25% of the UK's emissions. The scheme raised [an estimated £2.6 billion in 2024-25](https://obr.uk/forecasts-in-depth/tax-by-tax-spend-by-spend/emissions-trading-scheme-uk-ets/).
 
 # Cap and trade model
 
