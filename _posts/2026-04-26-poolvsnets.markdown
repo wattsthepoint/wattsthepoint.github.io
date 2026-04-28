@@ -9,7 +9,7 @@ The method with which energy is traded in Great Britain is complicated, with mul
  relating to the way in which electricity is traded](https://www.sciencedirect.com/science/article/pii/S1364032122002313) in an attempt to curtail rising energy prices. This article explains how trading shifted from the pooling process to the New Electricity Trading Arrangements (NETA).
 
  ![HEYS PS](/assets/images/heys1.jpg)
-_Figure 1. Heysham 1 Power Station._
+_Figure 1. Heysham 1 Nuclear Power Station._
 
 ## The Pool
 
@@ -31,6 +31,10 @@ It is widely accepted that NETA reduced electricity prices through increased com
 
 NETA was expanded into BETTA in 2004 through the Energy Act, aiming to fully incorporate Scotland into the system adopted in England and Wales. The roles of System Operator (SO) and Transmission Owners (TOs) were separated, with the SO responsible for real-time operation of the system across Great Britain and the TOs acting as regional asset owners. This structural separation reinforced the coordinated operation of a single GB-wide market, while maintaining regional ownership of transmission assets, and represented a further step towards a more integrated but still market-driven electricity system.
 
+### The Electricity Market Reform (EMR)
+
+In 2010, it was realised that the balance between demand and generation would shift, with many ageing traditional thermal power plants expected to close leading up to 2020. The EMR in 2011 introduced new mechanisms to stimulate investment: chief among these were Contracts for Difference (CfD) and the Capacity Market (CM). CfD are explained in detail [here](https://wattsthepoint.github.io/posts/renewable-subsidies/), but in summary, guarantees long-term fixed income for clean forms of generation. They shifted financial risk onto consumers and initially resulted in high strike prices when renewable energy was in its infancy. CM incentivises generators to be built or to remain open to carry out a capacity function, applying a buffer to the margin between generation and demand. New policies such as the Emission Performance Standard (EPS) and Carbon Floor Price were also introduced in 2014 and 2013, respectively, to curtail the emissions of polluting power stations and encourage the opening of new renewable energy sources.
+
 ## Conclusion
 
-The transition from the Pool to NETA, and subsequently to BETTA, reflects a shift from centralised coordination towards market-based mechanisms designed to enhance competition and efficiency. While these reforms succeeded in reducing short-term electricity prices and increasing market participation, they also transferred risk onto market participants and weakened long-term investment signals. As such, the evolution of electricity trading in Great Britain highlights the inherent trade-off between achieving cost efficiency and maintaining system security in a liberalised energy market.
+The transition from the Pool to NETA, and subsequently to BETTA, reflects a shift from centralised coordination towards market-based mechanisms designed to enhance competition and efficiency. While these reforms succeeded in reducing short-term electricity prices and increasing market participation, they also transferred risk onto market participants and weakened long-term investment signals. The EMR gave the markets confidence to invest in renewable energy, but shifted risk onto consumers due to high initial costs of renewable energy. As such, the evolution of electricity trading in Great Britain highlights the inherent trade-off between achieving cost efficiency and maintaining system security in a liberalised energy market.
