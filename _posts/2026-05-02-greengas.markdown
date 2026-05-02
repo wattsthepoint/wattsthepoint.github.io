@@ -1,0 +1,77 @@
+
+---
+title:  "Green gas - a solution to Britain's heating emissions problem?"
+date:   2026-05-02 02:00:24 +0000
+categories: [Domestic energy, Heating]
+tags: [heating]     # TAG names should always be lowercase
+---
+
+Dale Vince, founder of [Ecotricity](https://www.ecotricity.co.uk/), one of the pioneers in renewable energy supply, has in recent years [strongly pushed for green gas expansion](https://www.ecotricity.co.uk/our-green-energy/green-gas), utilising grass as feedstock for anaerobic digesters to displace natural gas. His claims are broadly that this would be a cheaper and more effective solution to decarbonise domestic heating in Britain than the electrification of heating using heat pump technology. This article presents a balanced perspective on this suggestion.
+
+## Anaerobic digester basics
+
+Anaerobic digesters (AD) are a well-established technology, with a history dating back to the 1800s. AD plants are theoretically carbon neutral since the biogas produced is combusted, releasing carbon dioxide that has already been absorbed from the atmosphere during the lifecycle of the feedstock. In reality, however, biogas leakage, transport emissions, and other factors can make AD plants net polluters.
+
+AD plants can use many types of organic waste as feedstock, though dedicated energy crops such as maize are also common. Domestic waste and sewage can also be treated, albeit with additional separation and contamination challenges. This can be environmentally beneficial, as it ensures methane is captured and used to produce energy rather than vented directly into the atmosphere, where it acts as a far more potent greenhouse gas than carbon dioxide.
+
+Organic waste is transported to a facility where it is broken down by microorganisms in the absence of air, producing biogas. Digesters also produce a by-product known as digestate, which can be used as a fertiliser, reducing dependency on imported synthetic fertilisers and helping to make the process more circular.
+
+The methane-rich biogas produced, regardless of feedstock type, contains contaminants and large amounts of carbon dioxide. While it can be used directly in some applications, it must be upgraded to biomethane quality before being injected into the gas grid. Amine scrubbing can be used to separate the carbon dioxide, which can then potentially be refined to food-grade quality for use in industry.
+
+## The benefits of green gas
+
+The solution Ecotricity presents has significant merit. It utilises the existing gas transmission and distribution network without requiring the extensive infrastructure overhauls that alternatives such as hydrogen would probably require.
+
+It also avoids the immediate need for households to switch to heat pumps, which currently cost around £10,000 to install. Green gas remains compatible with existing domestic gas boilers.
+
+Large-scale deployment of heat pumps would increase electricity demand on a grid already facing major decarbonisation challenges. Additional renewable generation capacity, network reinforcement, and energy storage would likely be required.
+
+Thousands of new jobs could also be created in the rural economy due to the large number of anaerobic digesters required, while farmers would gain a potentially stable income source from grass production. Continued use of the gas network would also help preserve jobs within the gas industry and reduce the scale of workforce retraining required.
+
+However, biomethane leakage remains a major concern. Methane is a far more potent greenhouse gas than carbon dioxide, with a global warming potential around 28 times greater over a 100-year timeframe. Leaks would therefore need to be strictly monitored and minimised for AD plants to deliver genuine environmental benefits.
+
+## The challenges of green gas
+
+The argument for green gas is not without significant flaws. The land requirement would be immense if it were to meet a substantial proportion of the nation’s gas demand. Dale Vince acknowledges this and suggests that a societal shift toward more plant-based diets could help free up land for grass production.
+
+Biogas produced from anaerobic digesters cannot be injected directly into the gas grid and must first be upgraded to biomethane. Ecotricity’s report also does not fully address the requirement for biomethane to have propane added at approximately 6% per volume](https://www.cngservices.co.uk/wp-content/uploads/Energy-World-Article-Biomethane-Enters-the-Grid.pdf#:~:text=This%20gives%20grid%20gas%20an%20energy%20content%2C,propane%20to%20the%20gas%20prior%20to%20injection.) to raise its calorific value to grid standards. Since propane is currently largely fossil-fuel derived, renewable alternatives would also need to be developed for green gas to become fully renewable.
+
+Digestate can reduce reliance on synthetic fertilisers, but its use still presents environmental challenges, including nitrogen leaching into waterways and potential long-term impacts on soil quality if poorly managed.
+
+AD plants can also produce unpleasant odours, meaning site location requires careful consideration, particularly near residential or commercial areas.
+
+### Green gas land requirements
+
+The critical issue for green gas is the colossal land requirement. Ecotricity assumes that 6.46 million hectares of land in the UK are suitable for grass production for AD, out of the [17.1 million hectares of agricultural land currently utilised](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/557993/AUK-2015-05oct16.pdf).
+
+Its analysis assumes a domestic gas heating demand of 236.5 TWh and suggests that 98.8% of this suitable grassland would be required to meet that demand alone. If the area of suitable grassland in Britain proves even marginally smaller than assumed, the target could not be achieved without repurposing additional agricultural land.
+
+The analysis also does not account for natural gas demand from sectors such as industry and electricity generation, which would require substantially more land and AD infrastructure.
+
+## Green gas incentives
+
+The government is currently encouraging biomethane injection into the gas network through the [Green Gas Support Scheme (GGSS) and the Green Gas Levy](https://www.ofgem.gov.uk/environmental-and-social-schemes/green-gas-support-scheme-and-green-gas-levy). The Green Gas Levy is a mandatory payment collected from licensed gas suppliers and used to fund the GGSS, which opened in 2021. The scheme aims to support enough biomethane production to supply around 250,000 homes. The GGSS is restricted to plants using at least 50% waste feedstock, limiting support for facilities relying entirely on dedicated energy crops.
+
+## Grass rather than maize
+
+Where Ecotricity’s proposal differs from most existing AD projects is its use of grass as a feedstock. Grass is an unusual choice for anaerobic digestion due to its relatively poor biogas yield compared with crops such as maize.
+
+However, grass can offer environmental advantages. It is generally less damaging to soil quality than maize cultivation, while species-rich herbal leys can help improve biodiversity and increase soil carbon in depleted soils.
+
+## Energy from solar versus biomethane production
+
+Based on a solar farm having most frequently around [2 MW of installed capacity per hectare](https://assets.publishing.service.gov.uk/media/6762f035e6ff7c8a1fde9b48/Land_utilised_by_solar_PV__September_2024.pdf) and an average [capacity factor of 10%](https://www.statista.com/statistics/555697/solar-electricity-load-factor-uk/), an average solar farm would produce approximately 1,752 MWh of electricity per year per hectare.
+
+Comparing this to Ecotricity’s estimated biomethane energy potential of 36.6 MWh per hectare gives a factor of 47.8 in favour of solar generation.
+
+Furthermore, when considering useful heat output through heat pumps, assuming a coefficient of performance of 3, the difference between biomethane heating using a gas boiler and solar-powered heating using heat pumps increases to approximately 143.4 times in favour of solar electricity.
+
+This comparison does not account for seasonal intermittency, energy storage requirements, or grid balancing costs associated with solar generation.
+
+## Conclusion
+
+Green gas produced through anaerobic digestion could play an important role in reducing emissions from sectors that are difficult to electrify, particularly when waste feedstocks are used. The technology also offers benefits in methane capture, waste management, and rural economic activity.
+
+However, using grass-derived biomethane to replace a substantial proportion of Britain’s domestic natural gas demand would require enormous areas of land and very large numbers of AD plants. When compared with electrified heating using heat pumps, the land efficiency of biomethane production appears substantially lower.
+
+While green gas is likely to contribute to Britain’s wider decarbonisation strategy, the evidence suggests it is better suited as a limited supplementary energy source rather than a full replacement for natural gas in domestic heating.
