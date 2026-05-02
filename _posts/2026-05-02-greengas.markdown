@@ -17,6 +17,9 @@ Organic waste is transported to a facility where it is broken down by microorgan
 
 The methane-rich biogas produced, regardless of feedstock type, contains contaminants and large amounts of carbon dioxide. While it can be used directly in some applications, it must be upgraded to biomethane quality before being injected into the gas grid. Amine scrubbing can be used to separate the carbon dioxide, which can then potentially be refined to food-grade quality for use in industry.
 
+![as](/assets/images/adplant2.png)
+_Figure 1. Anaerobic digesters._
+
 ## The benefits of green gas
 
 The solution Ecotricity presents has significant merit. It utilises the existing gas transmission and distribution network without requiring the extensive infrastructure overhauls that alternatives such as hydrogen would probably require.
