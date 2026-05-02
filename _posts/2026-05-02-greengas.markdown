@@ -62,13 +62,9 @@ However, grass can offer environmental advantages. It is generally less damaging
 
 ## Energy from solar versus biomethane production
 
-Based on a solar farm having most frequently around [2 MW of installed capacity per hectare](https://assets.publishing.service.gov.uk/media/6762f035e6ff7c8a1fde9b48/Land_utilised_by_solar_PV__September_2024.pdf) and an average [capacity factor of 10%](https://www.statista.com/statistics/555697/solar-electricity-load-factor-uk/), an average solar farm would produce approximately 1,752 MWh of electricity per year per hectare.
+Based on a solar farm having most frequently around [2 MW of installed capacity per hectare](https://assets.publishing.service.gov.uk/media/6762f035e6ff7c8a1fde9b48/Land_utilised_by_solar_PV__September_2024.pdf) and an average [capacity factor of 10%](https://www.statista.com/statistics/555697/solar-electricity-load-factor-uk/), an average solar farm would produce approximately 1,752 MWh of electricity per year per hectare. Comparing this to Ecotricity’s estimated biomethane energy potential of 36.6 MWh per hectare gives a factor of 47.8 in favour of solar generation. 
 
-Comparing this to Ecotricity’s estimated biomethane energy potential of 36.6 MWh per hectare gives a factor of 47.8 in favour of solar generation.
-
-Furthermore, when considering useful heat output through heat pumps, assuming a coefficient of performance of 3, the difference between biomethane heating using a gas boiler and solar-powered heating using heat pumps increases to approximately 143.4 times in favour of solar electricity.
-
-This comparison does not account for seasonal intermittency, energy storage requirements, or grid balancing costs associated with solar generation.
+Furthermore, when considering useful heat output through heat pumps, assuming a coefficient of performance of 3, the difference between biomethane heating using a gas boiler and solar-powered heating using heat pumps increases to approximately 143.4 times in favour of solar electricity. This comparison does not account for seasonal intermittency, energy storage requirements, or grid balancing costs associated with solar generation.
 
 ## Conclusion
 
