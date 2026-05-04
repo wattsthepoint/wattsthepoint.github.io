@@ -5,7 +5,7 @@ categories: [Domestic energy, Heating]
 tags: [heating]     # TAG names should always be lowercase
 ---
 
-Dale Vince, founder of [Ecotricity](https://www.ecotricity.co.uk/), one of the pioneers in renewable energy supply, has in recent years [strongly pushed for green gas expansion](https://www.ecotricity.co.uk/our-green-energy/green-gas), utilising grass as feedstock for anaerobic digesters to displace natural gas. His claims are broadly that this would be a cheaper and more effective solution to decarbonise domestic heating in Britain than the electrification of heating using heat pump technology. This article presents a balanced perspective on this suggestion.
+Dale Vince, founder of [Ecotricity](https://www.ecotricity.co.uk/), one of the pioneers in renewable energy supply, has in recent years [strongly pushed for green gas expansion](https://www.ecotricity.co.uk/our-green-energy/green-gas), utilising grass as feedstock for anaerobic digesters to displace natural gas. His claims are broadly that this would be a cheaper and more effective solution to decarbonise domestic heating in Britain than the electrification of heating using heat pump technology. Biomethane only presently makes up around [2% of natural gas supply](https://www.bioenergy-news.com/news/british-biogas-could-shield-households-from-gulf-energy-shock/) (in the UK) and therefore for Vince's ambitions to be realised, huge investment and effort would be required. This article presents a balanced perspective on this suggestion.
 
 ## Anaerobic digester basics
 
