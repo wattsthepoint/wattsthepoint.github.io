@@ -24,7 +24,7 @@ _Figure 1. Anaerobic digesters._
 
 The solution Ecotricity presents has significant merit. It utilises the existing gas transmission and distribution network without requiring the extensive infrastructure overhauls that alternatives such as hydrogen would probably require.
 
-It also avoids the immediate need for households to switch to heat pumps, which currently cost around £10,000 to install. Green gas remains compatible with existing domestic gas boilers.
+It also avoids the immediate need for households to switch to heat pumps, which currently cost [around £11,000 to install](https://wattsthepoint.github.io/posts/why-install-a-heat-pump/). Green gas remains compatible with existing domestic gas boilers.
 
 Large-scale deployment of heat pumps would increase electricity demand on a grid already facing major decarbonisation challenges. Additional renewable generation capacity, network reinforcement, and energy storage would likely be required.
 
