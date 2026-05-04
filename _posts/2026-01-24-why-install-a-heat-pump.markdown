@@ -17,7 +17,7 @@ Heat pumps operate by the same principles as an air-conditioner, only with a rev
 
 ## Boiler Upgrade Scheme
 
-The present government policy is most strongly supporting the installation of air-source heat pumps through the [Boiler Upgrade Scheme (BUS)](https://www.gov.uk/apply-boiler-upgrade-scheme). The scheme offers £7,500 for households in England and Wales towards the installation of a heat pump. This scheme brings the costs of installing an air-source heat pump and gas closer, with a general figure being £11,000 for a heat pump and £4,000 for a gas boiler. The cost of a ground-source heat pump is typically significantly greater at £29,000, meaning that the scheme does little to compensate for this type.
+The present government policy is most strongly supporting the installation of air-source heat pumps through the [Boiler Upgrade Scheme (BUS)](https://www.gov.uk/apply-boiler-upgrade-scheme). The scheme offers £7,500 for households in England and Wales towards the installation of a heat pump. This scheme brings the costs of installing an air-source heat pump and gas closer, with a general figure being [£11,000 for a heat pump and £4,000 for a gas boiler](https://www.moneysavingexpert.com/utilities/heat-pump/). The cost of a ground-source heat pump is typically [significantly greater at £29,000](https://www.moneysavingexpert.com/utilities/heat-pump/), meaning that the scheme does little to compensate for this type.
 
 The government announced in January 2026 that the BUS will be extended by a further year to 2029/30; however, funding for the Energy Company Obligation (ECO) scheme, which aimed to improve the insulation of homes, will end in December 2026.
 
