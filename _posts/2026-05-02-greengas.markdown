@@ -30,7 +30,7 @@ Large-scale deployment of heat pumps would increase electricity demand on a grid
 
 Thousands of new jobs could also be created in the rural economy due to the large number of anaerobic digesters required, while farmers would gain a potentially stable income source from grass production. Continued use of the gas network would also help preserve jobs within the gas industry and reduce the scale of workforce retraining required.
 
-However, biomethane leakage remains a major concern. Methane is a far more potent greenhouse gas than carbon dioxide, with a global warming potential around 28 times greater over a 100-year timeframe. Leaks would therefore need to be strictly monitored and minimised for AD plants to deliver genuine environmental benefits.
+However, biomethane leakage remains a major concern. Methane is a far more potent greenhouse gas than carbon dioxide, with a global warming potential around [28 times greater over a 100-year timeframe](https://www.sciencedirect.com/science/article/pii/S1462901122001204). Leaks would therefore need to be strictly monitored and minimised for AD plants to deliver genuine environmental benefits.
 
 ## The challenges of green gas
 
