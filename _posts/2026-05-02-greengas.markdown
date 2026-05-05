@@ -56,9 +56,9 @@ The government is currently encouraging biomethane injection into the gas networ
 
 ## Grass rather than maize
 
-Where Ecotricity’s proposal differs from most existing AD projects is its use of grass as a feedstock. Grass is an unusual choice for anaerobic digestion due to its relatively poor biogas yield compared with crops such as maize.
+Where Ecotricity’s proposal differs from most existing AD projects is its use of grass as a feedstock. Grass is an unusual choice for anaerobic digestion due to its [relatively poor biogas yield](https://downloads.ctfassets.net/620j9bwnh4b6/2gSQuZOgxxs4dvkMW5mZDV/2356be083369cb8c68d87ed798ccf02e/Green_Gas_Report_2022.pdf) compared with crops such as maize.
 
-However, grass can offer environmental advantages. It is generally less damaging to soil quality than maize cultivation, while species-rich herbal leys can help improve biodiversity and increase soil carbon in depleted soils.
+However, grass can offer environmental advantages. It is generally [less damaging to soil quality than maize cultivation](https://downloads.ctfassets.net/620j9bwnh4b6/2gSQuZOgxxs4dvkMW5mZDV/2356be083369cb8c68d87ed798ccf02e/Green_Gas_Report_2022.pdf), while species-rich herbal leys can help improve biodiversity and increase soil carbon in depleted soils.
 
 ## Energy from solar versus biomethane production
 
