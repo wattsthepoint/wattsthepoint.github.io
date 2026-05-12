@@ -1,5 +1,5 @@
 ---
-title:  "Why Reform UK's energy policy is flawed"
+title:  "Would Reform UK reduce the cost of domestic energy?"
 date:   2026-05-12 02:00:24 +0000
 categories: [Power system economics, Renewable energy subsidies]
 tags: [energy]     # TAG names should always be lowercase
@@ -36,6 +36,10 @@ In the run-up to 2030, the [New Economics Foundation](https://neweconomics.org/2
 Increasing fossil fuel production in Britain would likely do little for the direct price of energy bills, as oil and gas prices are set by global markets. Nevertheless, advocates of greater North Sea extraction argue that it could still improve energy security, reduce dependence on imported liquefied natural gas and provide additional tax revenues and domestic employment. North Sea expansion itself is estimated to generate only 7,000 new jobs.
 
 It is also important to distinguish between electricity generation and domestic heating. Whilst renewable deployment primarily reduces gas consumption in the electricity sector, household heating in Britain remains heavily dependent on natural gas, leaving consumers exposed to global gas market fluctuations unless heating is progressively electrified.
+
+## Conclusion
+
+Reform UK is correct to identify energy affordability as a major political and economic issue, and some of its proposals could reduce household bills in the short term by shifting policy costs away from electricity bills. However, many of these costs would still need to be funded through general taxation, whilst the largest driver of recent price volatility — wholesale gas markets — would remain largely unchanged. At the same time, reducing support for renewable energy and opposing new electricity infrastructure could increase long-term exposure to fossil fuel price shocks and weaken Britain’s energy security.
 
 ## Undergrounding new power infrastructure
 
