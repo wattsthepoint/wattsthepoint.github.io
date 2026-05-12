@@ -1,0 +1,42 @@
+---
+title:  "Why Reform UK's energy policy is flawed"
+date:   2026-05-12 02:00:24 +0000
+categories: [Power system economics, Renewable energy subsidies]
+tags: [energy]     # TAG names should always be lowercase
+---
+
+Nigel Farage's Reform UK party has made some bold promises, one of which relates to lowering Britain's energy bills by £200. Their tagline is to ["Scrap Net Zero to Cut Energy Bills"](https://www.reformparty.uk/policies#policies-parallax). The specifics of their policy include: [increasing North Sea fossil fuel extraction, removing VAT on energy bills, removing the renewable obligation from bills and scrapping the carbon price support.](https://britbrief.co.uk/business/energy/reform-uks-200-energy-bill-savings-a-fact-check.html) Whilst these policies could reduce electricity bills in the short term (with most costs shifted into general taxation), they fail to address the root cause of energy price volatility and could weaken the long-term benefits of supporting British renewable energy and energy independence.
+
+## The current picture
+
+For reference, Figure 1 shows the approximate composition of energy bill costs based on the [January 2026 price cap](https://wattsthepoint.github.io/posts/april26changes/). Policy costs accounted for approximately 13.4% of total costs, wholesale energy for 39.3%, and infrastructure for 22.6%. As such, it is clear that wholesale energy has historically had the biggest impact on domestic energy costs during periods of market volatility, although policy costs remain a significant component of bills and are often criticised for disproportionately affecting lower-income households.
+
+![Energy bill cost pie](/assets/images/pieenergybills.png)
+
+_Figure 1. [Cost allocation of typical energy bill based on the January 2026 price cap](https://www.linkedin.com/posts/ofgem_ever-wondered-where-every-1-of-your-energy-activity-7397544539126800384-hTYU)._ 
+
+## Removal of VAT
+
+From Figure 1, it is clear that whilst removing VAT from energy bills could reduce energy bills by 5%, this tax will need to be shifted to general taxation. It will still be paid for, but in a less visible sense. Nevertheless, supporters of the policy argue that moving costs away from bills and into broader taxation may reduce the regressive nature of energy charges on households.
+
+## Removal of the Carbon Price Support
+
+The Carbon Price Support was introduced in 2013 to enforce a higher cost on generating electricity using fossil fuels than required by the [Emissions Trading Scheme](https://wattsthepoint.github.io/posts/ukets/). Reform stated that it would save the average household around £15 per year. Labour has stated that the Carbon Price Support will be [removed in 2028](https://questions-statements.parliament.uk/written-statements/detail/2026-04-16/hlws1528), since it has performed its function in removing the most polluting electricity generation methods from the mix.
+
+## Removal of the renewable obligation
+
+The [Renewable Obligation](https://wattsthepoint.github.io/posts/renewable-subsidies/) has already been [shifted into general taxation by 75%](https://wattsthepoint.github.io/posts/april26changes/) by the current Labour government, and moving the remaining 25% will have a small impact on bills. In the same way as VAT, this cost will still need to be funded by general taxation. Furthermore, the renewable obligation has ceased expansion, and it will naturally decrease over time.
+
+Critics of renewable subsidies often argue that, whilst renewable generation can be inexpensive at the point of generation, the wider transition also requires substantial investment in electricity networks, balancing services, storage infrastructure and system integration. These costs are frequently socialised elsewhere in the electricity system and contribute to rising infrastructure charges.
+
+## The harm of stopping renewable energy support and the limitations of more North Sea gas
+
+In the run-up to 2030, the [New Economics Foundation](https://neweconomics.org/2025/05/the-cost-of-reform-uks-anti-environmental-policies) estimates that the ["Scrap Net Zero to Cut Energy Bills"](https://www.reformparty.uk/policies#policies-parallax) policy could reduce large-scale renewable energy capacity by 48 GW (equivalent roughly to peak GB demand) and deprive the economy of 3% of GDP. Furthermore, it found that it could eliminate 60,000 jobs and provide a price fluctuation of £190 more per household's energy bill if a spike of the same magnitude as 2022 occurred, compared to the government's current targets. However, these estimates are modelled projections and depend heavily on assumptions around future gas prices, investment behaviour and technology deployment.
+
+Increasing fossil fuel production in Britain would likely do little for the direct price of energy bills, as oil and gas prices are set by global markets. Nevertheless, advocates of greater North Sea extraction argue that it could still improve energy security, reduce dependence on imported liquefied natural gas and provide additional tax revenues and domestic employment. North Sea expansion itself is estimated to generate only 7,000 new jobs.
+
+It is also important to distinguish between electricity generation and domestic heating. Whilst renewable deployment primarily reduces gas consumption in the electricity sector, household heating in Britain remains heavily dependent on natural gas, leaving consumers exposed to global gas market fluctuations unless heating is progressively electrified.
+
+## Undergrounding new power infrastructure
+
+Although not in their latest press release/policy, in 2025, [Reform strongly opposed new overhead line routes for reinforcement of the electricity transmission network](https://www.bbc.co.uk/news/articles/c93k584nvgeo). New overhead lines are usually the most cost-effective onshore transmission reinforcement option, with their cost typically being [at least 2.5 times less expensive than underground cabling](https://www.bbc.co.uk/news/articles/c93k584nvgeo). This ensures a fair price for consumers. Furthermore, the capacitive properties of underground cables often prevent them from being in service unless heavily loaded or compensated by expensive equipment.
